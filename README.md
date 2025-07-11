@@ -56,9 +56,9 @@ pip install -r requirements.txt
 3. Execute um dos apps
 streamlit run app_nome.py
 Exemplo:
-
+```
 streamlit run app_insights.py
-
+```
 📁 Sobre os dados
 Os arquivos de dados usados nos projetos estão na pasta datasets/.
 Eles são carregados nos apps com caminho relativo, por exemplo:
