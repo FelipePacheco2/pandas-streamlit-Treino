@@ -57,7 +57,7 @@ pip install -r requirements.txt
 streamlit run app_nome.py
 Exemplo:
 ```
-![Preview do app](cadastramento (1).gif)
+![Preview do app](assets/cadastramento.gif)
 
 ```
 📁 Sobre os dados
