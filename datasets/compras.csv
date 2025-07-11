@@ -1,0 +1,2002 @@
+id_compra;loja;vendedor;produto;cliente_nome;cliente_genero;Forma_pagamento
+0;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Robert Saylor;masculino;Boleto
+1;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Gloria Pollack;feminino;Cartão de credito
+2;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Neil Guereca;masculino;Pix
+3;Florianopolis;Gabriela Santos;Smartwatch Garmin;Elmer Richie;masculino;Boleto
+4;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Sergio Raheja;masculino;Boleto
+5;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Angie Robinson;feminino;Cartão de credito
+6;Florianopolis;Thiago Lima;Smartwatch Garmin;Patricia Ny;feminino;Cartão de credito
+7;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Jeremy Nix;masculino;Pix
+8;Florianopolis;Thiago Lima;Fones de ouvido Sony;Jody Tennon;feminino;Boleto
+9;São Paulo;Ana Oliveira;Smartwatch Garmin;Roberto Diaz;masculino;Boleto
+10;São Paulo;Ana Oliveira;Tablet Apple Ipad;Charles Duty;masculino;Cartão de credito
+11;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Sallie Purdy;feminino;Boleto
+12;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Christina Hearne;feminino;Boleto
+13;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Daisy Navarro;feminino;Dinheiro
+14;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Vennie Tola;feminino;Cartão de credito
+15;Florianopolis;Thiago Lima;Smartwatch Garmin;Michael Kramer;masculino;Boleto
+16;Porto Alegre;Maria Gomes;Tablet Apple Ipad;John Williams;masculino;Cartão de credito
+17;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Frank Smith;masculino;Dinheiro
+18;São Paulo;Ana Oliveira;Tablet Apple Ipad;Elsie Stewart;feminino;Boleto
+19;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;June Engman;feminino;Dinheiro
+20;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Kelly Dean;feminino;Pix
+21;São Paulo;Lucas Pereira;Smartwatch Garmin;Rose Gray;feminino;Dinheiro
+22;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Peter Conrad;masculino;Cartão de credito
+23;São Paulo;Lucas Pereira;Tablet Apple Ipad;Shirley Smith;feminino;Dinheiro
+24;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Andrew Swiger;masculino;Pix
+25;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Colleen Shah;feminino;Boleto
+26;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Helen Harris;feminino;Pix
+27;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Julie Louis;feminino;Cartão de credito
+28;Florianopolis;Thiago Lima;Smartwatch Garmin;Caitlin Nunez;feminino;Dinheiro
+29;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Jack Owens;masculino;Cartão de credito
+30;Florianopolis;Thiago Lima;Fones de ouvido Sony;Mattie Stimpert;feminino;Dinheiro
+31;São Paulo;Lucas Pereira;Tablet Apple Ipad;Carrie Studivant;feminino;Pix
+32;Florianopolis;Gabriela Santos;Smartwatch Garmin;Richard Fowler;masculino;Dinheiro
+33;São Paulo;Ana Oliveira;Tablet Apple Ipad;William Boatwright;masculino;Dinheiro
+34;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Craig Chin;masculino;Boleto
+35;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Catherine Jordan;feminino;Pix
+36;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Rhoda Davis;feminino;Pix
+37;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Trevor Goodwin;masculino;Cartão de credito
+38;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Ted Giannecchini;masculino;Cartão de credito
+39;Florianopolis;Thiago Lima;Fones de ouvido Sony;Erika Spence;feminino;Pix
+40;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Jeanette Lambert;feminino;Boleto
+41;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Stephanie Monday;feminino;Pix
+42;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Michael Barrington;masculino;Pix
+43;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Carl Hawkins;masculino;Cartão de credito
+44;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Luciana Holmes;feminino;Boleto
+45;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Raymond Wright;masculino;Pix
+46;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Faye Moore;feminino;Dinheiro
+47;Florianopolis;Thiago Lima;Smartwatch Garmin;Evelyn Reagon;feminino;Pix
+48;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Charles Gutierrez;masculino;Boleto
+49;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Barbara Lemoyne;feminino;Boleto
+50;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Kathy Stewart;feminino;Boleto
+51;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Louise Schreiner;feminino;Pix
+52;Florianopolis;Gabriela Santos;Smartwatch Garmin;Sid Trinidad;masculino;Dinheiro
+53;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Calvin Nozum;masculino;Boleto
+54;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;John Britt;masculino;Cartão de credito
+55;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Reginald Evans;masculino;Boleto
+56;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Rebecca Kahalehoe;feminino;Dinheiro
+57;São Paulo;Ana Oliveira;Tablet Apple Ipad;Linda Williams;feminino;Boleto
+58;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Eddy Benedict;masculino;Boleto
+59;Florianopolis;Gabriela Santos;Fones de ouvido Sony;James Locke;masculino;Boleto
+60;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Adam Grant;masculino;Cartão de credito
+61;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Edith Soares;feminino;Pix
+62;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Geraldine Nolen;feminino;Boleto
+63;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Robert Marsh;masculino;Dinheiro
+64;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Kevin Jones;masculino;Pix
+65;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Shirley Croley;feminino;Cartão de credito
+66;São Paulo;Ana Oliveira;Fones de ouvido Sony;Richard Jensen;masculino;Cartão de credito
+67;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Sheryl Barton;feminino;Boleto
+68;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Gregory Mcdermott;masculino;Pix
+69;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Paul Kowalchuk;masculino;Dinheiro
+70;São Paulo;Lucas Pereira;Tablet Apple Ipad;Joseph Barabas;masculino;Cartão de credito
+71;São Paulo;Lucas Pereira;Fones de ouvido Sony;Katelyn Gallogly;feminino;Dinheiro
+72;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Lois Prieto;feminino;Boleto
+73;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Tatiana Chiodo;feminino;Pix
+74;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Rose Kuehl;feminino;Cartão de credito
+75;Florianopolis;Thiago Lima;Smartwatch Garmin;John Hamm;masculino;Cartão de credito
+76;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Timothy Toon;masculino;Pix
+77;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Rita Farrell;feminino;Cartão de credito
+78;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Dana Craig;masculino;Cartão de credito
+79;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Katherine Iacobelli;feminino;Cartão de credito
+80;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Thelma Boller;feminino;Dinheiro
+81;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Lazaro Qualls;masculino;Cartão de credito
+82;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Elliot Ortega;masculino;Pix
+83;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Caleb Vanatta;masculino;Boleto
+84;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Helen Watson;feminino;Cartão de credito
+85;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Marcia Monroe;feminino;Pix
+86;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Troy Harrington;masculino;Cartão de credito
+87;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Natalie Nieto;feminino;Cartão de credito
+88;Florianopolis;Thiago Lima;Fones de ouvido Sony;Marguerite Wessel;feminino;Boleto
+89;Florianopolis;Thiago Lima;Smartwatch Garmin;Shannon Roseman;masculino;Cartão de credito
+90;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Ariel Johnson;masculino;Pix
+91;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Charlie Bailey;masculino;Dinheiro
+92;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Tyrone Pichler;masculino;Boleto
+93;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Ruby Hayward;feminino;Pix
+94;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Johnathan Schwartz;masculino;Pix
+95;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Joyce Gayle;feminino;Pix
+96;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Matthew Bradley;masculino;Dinheiro
+97;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Gary Miller;masculino;Pix
+98;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Jose Tippins;masculino;Pix
+99;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Sean Redman;masculino;Boleto
+100;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Kenneth Hervey;masculino;Pix
+101;Florianopolis;Thiago Lima;Notebook Dell Inspiron;William Simmons;masculino;Boleto
+102;São Paulo;Lucas Pereira;Notebook Dell Inspiron;James Hernandez;masculino;Dinheiro
+103;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Gail Green;feminino;Dinheiro
+104;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Cathleen Jorgensen;feminino;Dinheiro
+105;Florianopolis;Thiago Lima;Smartwatch Garmin;Donna Thiessen;feminino;Cartão de credito
+106;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Charles Bailey;masculino;Boleto
+107;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Zachary Gonzalez;masculino;Cartão de credito
+108;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Maggie Jobe;feminino;Cartão de credito
+109;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Theresa Francois;feminino;Boleto
+110;São Paulo;Lucas Pereira;Fones de ouvido Sony;Virginia Jimenez;feminino;Dinheiro
+111;São Paulo;Lucas Pereira;Fones de ouvido Sony;Ethel Britton;feminino;Pix
+112;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Linda Hamilton;feminino;Cartão de credito
+113;Florianopolis;Gabriela Santos;Smartwatch Garmin;Vivian Ravenell;feminino;Boleto
+114;Florianopolis;Thiago Lima;Smartwatch Garmin;Antonio Dorr;masculino;Dinheiro
+115;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Lloyd Jones;masculino;Cartão de credito
+116;Florianopolis;Thiago Lima;Smartwatch Garmin;Bruce Betts;masculino;Boleto
+117;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Jack Willie;masculino;Dinheiro
+118;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Barbara Little;feminino;Boleto
+119;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Laura Chandler;feminino;Dinheiro
+120;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Phyllis Bishop;feminino;Cartão de credito
+121;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Ellen Bagby;feminino;Cartão de credito
+122;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;George Acosta;masculino;Dinheiro
+123;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Lloyd Martin;masculino;Cartão de credito
+124;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;James Wallace;masculino;Dinheiro
+125;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Joseph Ibarra;masculino;Cartão de credito
+126;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Adam Butler;masculino;Cartão de credito
+127;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Mary Ketcham;feminino;Cartão de credito
+128;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Donna Hernandez;feminino;Cartão de credito
+129;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Walter Collado;masculino;Dinheiro
+130;Florianopolis;Thiago Lima;Smartwatch Garmin;Kendra Wehunt;feminino;Boleto
+131;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Ina Lehmberg;feminino;Pix
+132;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Fred Gaff;masculino;Cartão de credito
+133;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Robert Caldwell;masculino;Cartão de credito
+134;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Tracy Gorman;feminino;Pix
+135;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Elvis Youd;masculino;Cartão de credito
+136;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Eric Jordan;masculino;Boleto
+137;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Tamara Herrman;feminino;Cartão de credito
+138;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Casey Gustafson;feminino;Cartão de credito
+139;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Elisabeth Neptune;feminino;Cartão de credito
+140;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Gabriela Hankins;feminino;Pix
+141;São Paulo;Ana Oliveira;Tablet Apple Ipad;Tori Bertholf;feminino;Dinheiro
+142;Florianopolis;Thiago Lima;Tablet Apple Ipad;Florence Flood;feminino;Boleto
+143;São Paulo;Ana Oliveira;Tablet Apple Ipad;Alfred Pardini;masculino;Cartão de credito
+144;Porto Alegre;Maria Gomes;Tablet Apple Ipad;John Choe;masculino;Dinheiro
+145;Florianopolis;Thiago Lima;Smartwatch Garmin;Sonia Desantiago;feminino;Dinheiro
+146;Florianopolis;Thiago Lima;Tablet Apple Ipad;James Ashurst;masculino;Cartão de credito
+147;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Donna Bose;feminino;Pix
+148;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Harry Walter;masculino;Cartão de credito
+149;Florianopolis;Thiago Lima;Smartwatch Garmin;Terri Sykes;feminino;Pix
+150;Florianopolis;Thiago Lima;Tablet Apple Ipad;Molly Martineau;feminino;Dinheiro
+151;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Jesus Roe;masculino;Cartão de credito
+152;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Luana Narain;feminino;Boleto
+153;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Ronald Smith;masculino;Boleto
+154;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;David Gonzalez;masculino;Pix
+155;São Paulo;Ana Oliveira;Fones de ouvido Sony;Thomas Carr;masculino;Pix
+156;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Naomi Garcia;feminino;Boleto
+157;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Gerald Waldo;masculino;Dinheiro
+158;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Thelma Carter;feminino;Dinheiro
+159;Florianopolis;Thiago Lima;Fones de ouvido Sony;Ronald Gomez;masculino;Dinheiro
+160;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Elmer Moore;masculino;Boleto
+161;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Troy Dina;masculino;Boleto
+162;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Herman Mclean;masculino;Boleto
+163;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Helen Authement;feminino;Pix
+164;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;John Nease;masculino;Dinheiro
+165;Florianopolis;Gabriela Santos;Smartwatch Garmin;Francine Mcdonald;feminino;Boleto
+166;São Paulo;Lucas Pereira;Tablet Apple Ipad;Karen Sevin;feminino;Cartão de credito
+167;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Albert Perkins;masculino;Boleto
+168;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Jane Jarrell;feminino;Cartão de credito
+169;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Pablo Nolting;masculino;Dinheiro
+170;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Melinda Zaring;feminino;Cartão de credito
+171;Porto Alegre;Maria Gomes;Smartwatch Garmin;Drew Oberholtzer;masculino;Dinheiro
+172;Porto Alegre;Maria Gomes;Smartwatch Garmin;Randy Allen;masculino;Dinheiro
+173;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Joyce Rainbolt;feminino;Pix
+174;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Julie Lewis;feminino;Dinheiro
+175;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Janice Lemanski;feminino;Boleto
+176;São Paulo;Ana Oliveira;Smartwatch Garmin;Charles Riccio;masculino;Dinheiro
+177;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Lori Cox;feminino;Cartão de credito
+178;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Ashley Vasquez;feminino;Boleto
+179;São Paulo;Lucas Pereira;Tablet Apple Ipad;Kim Prater;feminino;Pix
+180;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Martha Boone;feminino;Boleto
+181;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Tammy Sprankle;feminino;Boleto
+182;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Jacklyn Crane;feminino;Pix
+183;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Iris Rodgers;feminino;Pix
+184;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Trudy Chambers;feminino;Pix
+185;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Phillip Toca;masculino;Cartão de credito
+186;São Paulo;Lucas Pereira;Tablet Apple Ipad;Albert Orr;masculino;Cartão de credito
+187;São Paulo;Lucas Pereira;Smartwatch Garmin;Rebecca Biggerstaff;feminino;Pix
+188;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Vicente Graves;masculino;Pix
+189;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Terence Daughrity;masculino;Pix
+190;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Courtney Strange;masculino;Cartão de credito
+191;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Shirley Barksdale;feminino;Cartão de credito
+192;São Paulo;Lucas Pereira;Tablet Apple Ipad;Mary Kolasinski;feminino;Cartão de credito
+193;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Billy Moore;masculino;Boleto
+194;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Michael Thomson;masculino;Cartão de credito
+195;São Paulo;Ana Oliveira;Smartwatch Garmin;David Parker;masculino;Boleto
+196;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Brandon Williams;masculino;Cartão de credito
+197;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Marisa Martinez;feminino;Pix
+198;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Karen Latham;feminino;Pix
+199;Belo Horizonte;Carlos Silva;Smartwatch Garmin;David Roberts;masculino;Pix
+200;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Malcolm Granger;masculino;Cartão de credito
+201;Florianopolis;Thiago Lima;Fones de ouvido Sony;Chad Faulkner;masculino;Boleto
+202;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Milton Jordan;masculino;Dinheiro
+203;São Paulo;Lucas Pereira;Smartwatch Garmin;Betty Burr;feminino;Pix
+204;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Richard Carroll;masculino;Boleto
+205;Florianopolis;Gabriela Santos;Smartwatch Garmin;Michael Haynes;masculino;Dinheiro
+206;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;James Vert;masculino;Dinheiro
+207;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Joseph Dean;masculino;Cartão de credito
+208;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Giselle Pikula;feminino;Pix
+209;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Betty Pagan;feminino;Cartão de credito
+210;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Elsa Fielding;feminino;Dinheiro
+211;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Jayne Patrick;feminino;Boleto
+212;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Joan Leslie;feminino;Pix
+213;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Marsha Omalley;feminino;Dinheiro
+214;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Alexander Hanke;masculino;Pix
+215;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Robyn Anderson;feminino;Pix
+216;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Florence Heffner;feminino;Boleto
+217;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Grace Humes;feminino;Cartão de credito
+218;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Nona Wolfe;feminino;Boleto
+219;São Paulo;Lucas Pereira;Fones de ouvido Sony;Raymond Flores;masculino;Cartão de credito
+220;Florianopolis;Thiago Lima;Tablet Apple Ipad;Chad Tucker;masculino;Dinheiro
+221;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Thomas Stone;masculino;Pix
+222;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Sara Siebert;feminino;Dinheiro
+223;São Paulo;Ana Oliveira;Tablet Apple Ipad;Paul Way;masculino;Dinheiro
+224;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Pam Pearce;feminino;Cartão de credito
+225;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Alexander Nyberg;masculino;Cartão de credito
+226;São Paulo;Lucas Pereira;Fones de ouvido Sony;Amy Sand;feminino;Dinheiro
+227;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Lillian Bost;feminino;Boleto
+228;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Victoria Lasater;feminino;Dinheiro
+229;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Larry Coombs;masculino;Pix
+230;São Paulo;Ana Oliveira;Fones de ouvido Sony;Jim Welch;masculino;Dinheiro
+231;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Morris Morrow;masculino;Dinheiro
+232;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Dominga Ferenz;feminino;Pix
+233;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Abigail Brunke;feminino;Boleto
+234;São Paulo;Lucas Pereira;Smartwatch Garmin;Buck Butler;masculino;Cartão de credito
+235;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Arthur Howard;masculino;Cartão de credito
+236;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;George Johnston;masculino;Cartão de credito
+237;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Kayla Gerard;feminino;Pix
+238;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Mildred Bye;feminino;Cartão de credito
+239;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Branden Decaro;masculino;Boleto
+240;Florianopolis;Thiago Lima;Fones de ouvido Sony;Joel Harris;masculino;Dinheiro
+241;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Nancy Harvey;feminino;Boleto
+242;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Ronald Foster;masculino;Boleto
+243;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Robert Lebovic;masculino;Cartão de credito
+244;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;James Johnson;masculino;Pix
+245;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Selma Johnson;feminino;Dinheiro
+246;Porto Alegre;Maria Gomes;Smartwatch Garmin;Jose Bailey;masculino;Boleto
+247;Florianopolis;Thiago Lima;Smartwatch Garmin;Roger Fonder;masculino;Cartão de credito
+248;Florianopolis;Thiago Lima;Fones de ouvido Sony;Jessica Omara;feminino;Boleto
+249;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Courtney Vining;feminino;Cartão de credito
+250;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Christopher Ballard;masculino;Cartão de credito
+251;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Robert Grover;masculino;Dinheiro
+252;São Paulo;Ana Oliveira;Tablet Apple Ipad;Mark Yamamoto;masculino;Boleto
+253;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Magan Buoy;feminino;Boleto
+254;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Alicia Peck;feminino;Dinheiro
+255;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Joshua Gonzalez;masculino;Pix
+256;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Donald Stannard;masculino;Dinheiro
+257;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Eric Alvardo;masculino;Boleto
+258;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Miriam Majure;feminino;Boleto
+259;São Paulo;Lucas Pereira;Fones de ouvido Sony;John Brustmann;masculino;Cartão de credito
+260;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Trevor Phillips;masculino;Pix
+261;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Ryan Eichenlaub;masculino;Cartão de credito
+262;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Sharon Lyles;feminino;Boleto
+263;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Elizabeth Hallman;feminino;Pix
+264;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Doris Anglen;feminino;Boleto
+265;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Garfield Sammarco;masculino;Boleto
+266;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Beau Tainter;masculino;Dinheiro
+267;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Cathy Moran;feminino;Dinheiro
+268;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Lawrence Santamaria;masculino;Cartão de credito
+269;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;James Snively;masculino;Dinheiro
+270;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Melody Peters;feminino;Dinheiro
+271;São Paulo;Lucas Pereira;Tablet Apple Ipad;Forrest Bayer;masculino;Dinheiro
+272;Florianopolis;Gabriela Santos;Smartwatch Garmin;George Boyd;masculino;Boleto
+273;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Joseph Perry;masculino;Dinheiro
+274;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Roland Graves;masculino;Pix
+275;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Candace Brewster;feminino;Cartão de credito
+276;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Inez Austin;feminino;Pix
+277;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Ryan Dyer;masculino;Pix
+278;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Michael Yarbrough;masculino;Pix
+279;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Mindy Williams;feminino;Pix
+280;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Tom Reyes;masculino;Pix
+281;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Joey Slane;masculino;Pix
+282;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Stephanie Dietrich;feminino;Pix
+283;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Hazel Grow;feminino;Cartão de credito
+284;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Joel Lavoie;masculino;Boleto
+285;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Thomas Mims;masculino;Pix
+286;São Paulo;Lucas Pereira;Smartwatch Garmin;Gary Blair;masculino;Pix
+287;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Bonnie Filas;feminino;Cartão de credito
+288;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Sharon Wardinsky;feminino;Boleto
+289;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Gary Gibbs;masculino;Dinheiro
+290;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Kenneth Kautz;masculino;Boleto
+291;Florianopolis;Thiago Lima;Fones de ouvido Sony;Andrew Vasallo;masculino;Pix
+292;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Edward Hoffman;masculino;Pix
+293;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Terry Ramos;masculino;Cartão de credito
+294;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Dennis Irons;masculino;Dinheiro
+295;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Blanca Ramirez;feminino;Cartão de credito
+296;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Russell Boyd;masculino;Dinheiro
+297;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Benjamin Owens;masculino;Boleto
+298;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Terry Herriman;feminino;Dinheiro
+299;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;William Venezia;masculino;Dinheiro
+300;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Zelma Samuel;feminino;Dinheiro
+301;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Andrew Jordan;masculino;Cartão de credito
+302;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Megan Gilliard;feminino;Cartão de credito
+303;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Thelma Brugman;feminino;Pix
+304;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Rachel Larson;feminino;Boleto
+305;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Margie Presnall;feminino;Dinheiro
+306;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Esther Weaver;feminino;Pix
+307;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Pamela Green;feminino;Boleto
+308;São Paulo;Ana Oliveira;Smartwatch Garmin;George Garcia;masculino;Boleto
+309;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Elizabeth Mentgen;feminino;Boleto
+310;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Dennis Chadwick;masculino;Cartão de credito
+311;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Lillian Suttles;feminino;Dinheiro
+312;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Brian Maier;masculino;Dinheiro
+313;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Francisca Bryant;feminino;Pix
+314;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Donald White;masculino;Boleto
+315;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Gary Morrison;masculino;Boleto
+316;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;George Overton;masculino;Cartão de credito
+317;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Stephen Phillips;masculino;Boleto
+318;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Arthur Tate;masculino;Pix
+319;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Linda Bankhead;feminino;Pix
+320;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Tod Sturgill;masculino;Pix
+321;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Bradley Adler;masculino;Pix
+322;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Elisha Ahrenholtz;feminino;Pix
+323;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Johanna Mcknight;feminino;Pix
+324;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Sharon Kemp;feminino;Pix
+325;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Sheila Wiseman;feminino;Dinheiro
+326;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Deandre Farias;masculino;Cartão de credito
+327;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;John Goldston;masculino;Pix
+328;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Amy Briggs;feminino;Pix
+329;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Paul Radune;masculino;Boleto
+330;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Brad Olson;masculino;Boleto
+331;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;David Furches;masculino;Cartão de credito
+332;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Willie Woody;masculino;Pix
+333;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Julius Darnell;masculino;Pix
+334;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Catherine Musumeci;feminino;Dinheiro
+335;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Lillie Jolley;feminino;Boleto
+336;São Paulo;Lucas Pereira;Tablet Apple Ipad;Darcy Duncan;feminino;Boleto
+337;São Paulo;Lucas Pereira;Smartwatch Garmin;Antoinette Dominick;feminino;Boleto
+338;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Sylvia Mcghee;feminino;Dinheiro
+339;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Steven Flakes;masculino;Cartão de credito
+340;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;John Arndt;masculino;Pix
+341;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Jodi Smith;feminino;Pix
+342;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;James Crutchfield;masculino;Boleto
+343;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Doris Lopez;feminino;Dinheiro
+344;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Jane Jones;feminino;Cartão de credito
+345;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Robert Kutscher;masculino;Dinheiro
+346;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Hal Davis;masculino;Dinheiro
+347;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Willie Gentry;masculino;Boleto
+348;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Julie Trease;feminino;Dinheiro
+349;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Jeffrey Silva;masculino;Boleto
+350;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;James Dugger;masculino;Dinheiro
+351;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Debbie Currie;feminino;Boleto
+352;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Cynthia Moyers;feminino;Dinheiro
+353;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Andrea Moretto;feminino;Cartão de credito
+354;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Sharon Holland;feminino;Boleto
+355;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Sheila Skelton;feminino;Pix
+356;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Robin Francis;feminino;Cartão de credito
+357;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Bruce Bennett;masculino;Pix
+358;São Paulo;Lucas Pereira;Fones de ouvido Sony;Jorge Gordon;masculino;Cartão de credito
+359;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Kenneth Burnside;masculino;Boleto
+360;São Paulo;Lucas Pereira;Tablet Apple Ipad;Kenneth Bueno;masculino;Dinheiro
+361;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Robert Longo;masculino;Cartão de credito
+362;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Betty Lowe;feminino;Dinheiro
+363;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Latisha Franzese;feminino;Dinheiro
+364;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Rodney Romero;masculino;Boleto
+365;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Susan Johnson;feminino;Boleto
+366;Florianopolis;Thiago Lima;Smartwatch Garmin;Jose Patterson;masculino;Cartão de credito
+367;São Paulo;Lucas Pereira;Fones de ouvido Sony;Barry Scott;masculino;Cartão de credito
+368;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Peter Beard;masculino;Boleto
+369;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Lucille Montez;feminino;Pix
+370;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Charles Mcbath;masculino;Dinheiro
+371;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Emma Charles;feminino;Cartão de credito
+372;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Clarence Keithley;masculino;Boleto
+373;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Barbara Cook;feminino;Dinheiro
+374;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Inez Holt;feminino;Cartão de credito
+375;Florianopolis;Thiago Lima;Tablet Apple Ipad;Roy Hesseltine;masculino;Boleto
+376;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Mark Desalvo;masculino;Pix
+377;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Timothy Garcia;masculino;Boleto
+378;Florianopolis;Thiago Lima;Tablet Apple Ipad;Jerry Monsivais;masculino;Pix
+379;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Elizabeth Wafford;feminino;Pix
+380;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Rita Wood;feminino;Cartão de credito
+381;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Dennis Tosh;masculino;Boleto
+382;Florianopolis;Thiago Lima;Fones de ouvido Sony;Marge Rebello;feminino;Pix
+383;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Michael Anderson;masculino;Boleto
+384;São Paulo;Ana Oliveira;Smartwatch Garmin;Marcella Dangerfield;feminino;Boleto
+385;Florianopolis;Thiago Lima;Smartwatch Garmin;Ollie Guidry;masculino;Dinheiro
+386;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Juan Delano;masculino;Pix
+387;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Steven Lanier;masculino;Dinheiro
+388;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Ronald Shaw;masculino;Boleto
+389;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Daniel Mileski;masculino;Dinheiro
+390;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Joshua Moore;masculino;Cartão de credito
+391;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Toby Perez;masculino;Boleto
+392;São Paulo;Ana Oliveira;Smartwatch Garmin;Clarence Bishop;masculino;Dinheiro
+393;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Hazel Toma;feminino;Boleto
+394;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Clara Williams;feminino;Dinheiro
+395;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Dianne Hernanez;feminino;Boleto
+396;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Jennie Crawford;feminino;Cartão de credito
+397;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Laura Abel;feminino;Cartão de credito
+398;Florianopolis;Thiago Lima;Fones de ouvido Sony;Felix Starr;masculino;Pix
+399;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Ronald Moore;masculino;Dinheiro
+400;Porto Alegre;Maria Gomes;Smartwatch Garmin;Alice Isaacson;feminino;Pix
+401;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Rodney Warner;masculino;Pix
+402;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Renee Brandt;feminino;Cartão de credito
+403;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Erika Palmer;feminino;Pix
+404;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Christopher Prewitt;masculino;Dinheiro
+405;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Antonio Spangler;masculino;Boleto
+406;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Clyde Marcum;masculino;Dinheiro
+407;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Jessie Fuller;feminino;Boleto
+408;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Michael Eggers;masculino;Pix
+409;São Paulo;Ana Oliveira;Fones de ouvido Sony;Richard Lundquist;masculino;Dinheiro
+410;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Adeline Guzman;feminino;Dinheiro
+411;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Marian Diaz;feminino;Cartão de credito
+412;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Sharon Raad;feminino;Cartão de credito
+413;São Paulo;Lucas Pereira;Tablet Apple Ipad;Gary Richardson;masculino;Cartão de credito
+414;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Francesca Bonilla;feminino;Pix
+415;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Francisca Lovaglio;feminino;Pix
+416;São Paulo;Ana Oliveira;Tablet Apple Ipad;Stacey Bowman;feminino;Pix
+417;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Isiah Smith;masculino;Dinheiro
+418;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Willard Simple;masculino;Dinheiro
+419;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Nereida Schontz;feminino;Pix
+420;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Brenda Rose;feminino;Dinheiro
+421;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Alice Carter;feminino;Dinheiro
+422;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Sally Barrett;feminino;Boleto
+423;Florianopolis;Gabriela Santos;Smartwatch Garmin;Katherine Palmer;feminino;Cartão de credito
+424;São Paulo;Lucas Pereira;Tablet Apple Ipad;Sue Ivy;feminino;Dinheiro
+425;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Traci Turner;feminino;Cartão de credito
+426;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Mildred Johnson;feminino;Cartão de credito
+427;São Paulo;Lucas Pereira;Fones de ouvido Sony;Frank Melville;masculino;Cartão de credito
+428;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Emmett Jones;masculino;Cartão de credito
+429;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Elsa Miller;feminino;Cartão de credito
+430;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Rosa Spirer;feminino;Pix
+431;Florianopolis;Thiago Lima;Tablet Apple Ipad;Frank Jett;masculino;Cartão de credito
+432;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Alice Hull;feminino;Dinheiro
+433;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Armando Dimick;masculino;Pix
+434;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;James Singh;masculino;Boleto
+435;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;James Doyle;masculino;Boleto
+436;São Paulo;Ana Oliveira;Tablet Apple Ipad;Ellen Keith;feminino;Boleto
+437;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Carlos Maddox;masculino;Boleto
+438;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Tracey Bowen;feminino;Pix
+439;Porto Alegre;Maria Gomes;Smartwatch Garmin;Andrew Dupree;masculino;Pix
+440;Florianopolis;Thiago Lima;Tablet Apple Ipad;Emily Havel;feminino;Pix
+441;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Larry Miller;masculino;Boleto
+442;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Jon Moore;masculino;Pix
+443;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Carolyn Short;feminino;Boleto
+444;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Sheryl Griggs;feminino;Dinheiro
+445;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Joseph Evans;masculino;Cartão de credito
+446;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;James Wheeler;masculino;Cartão de credito
+447;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Karla Jaeger;feminino;Pix
+448;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Betsy Nguyen;feminino;Dinheiro
+449;São Paulo;Lucas Pereira;Smartwatch Garmin;Timothy Lee;masculino;Boleto
+450;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Don Witt;masculino;Dinheiro
+451;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Louis Stewart;masculino;Dinheiro
+452;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Cathy Broadway;feminino;Boleto
+453;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Roberta Yashinski;feminino;Dinheiro
+454;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Delia Thrift;feminino;Pix
+455;Florianopolis;Thiago Lima;Smartwatch Garmin;Herman Flores;masculino;Dinheiro
+456;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Norma Raglin;feminino;Pix
+457;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Helen Vera;feminino;Dinheiro
+458;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Serita Moore;feminino;Pix
+459;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;William Ryan;masculino;Dinheiro
+460;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Kathleen Candelaria;feminino;Pix
+461;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Peter Derita;masculino;Boleto
+462;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;John Petty;masculino;Cartão de credito
+463;Florianopolis;Gabriela Santos;Smartwatch Garmin;Federico Isaman;masculino;Boleto
+464;Florianopolis;Thiago Lima;Smartwatch Garmin;Dale Garcia;masculino;Boleto
+465;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Eartha Wilson;feminino;Pix
+466;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Franklin Kennedy;masculino;Dinheiro
+467;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Shea Bailey;feminino;Dinheiro
+468;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;James Graf;masculino;Boleto
+469;Florianopolis;Thiago Lima;Smartwatch Garmin;Thomas Elliott;masculino;Pix
+470;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Catherine Butler;feminino;Pix
+471;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Alejandro Wilson;masculino;Pix
+472;Florianopolis;Thiago Lima;Notebook Dell Inspiron;May Dixon;feminino;Cartão de credito
+473;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Joseph Toborg;masculino;Pix
+474;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;John Charron;masculino;Cartão de credito
+475;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Melissa Correira;feminino;Dinheiro
+476;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Freda Bissell;feminino;Cartão de credito
+477;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Michael Blevins;feminino;Pix
+478;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;David Salinas;masculino;Dinheiro
+479;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Verna Bowers;feminino;Dinheiro
+480;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Bonnie Lawson;feminino;Boleto
+481;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Betty Teruel;feminino;Pix
+482;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;John Zeigler;masculino;Boleto
+483;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Mary Withers;feminino;Cartão de credito
+484;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Randy Butler;masculino;Dinheiro
+485;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Gayla Lambert;feminino;Pix
+486;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Kandy Williams;feminino;Pix
+487;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Suzanne James;feminino;Pix
+488;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Joanne Ellis;feminino;Boleto
+489;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Robert Miller;masculino;Dinheiro
+490;Porto Alegre;Maria Gomes;Smartwatch Garmin;Lester Martinez;masculino;Cartão de credito
+491;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Ruby Flenory;feminino;Cartão de credito
+492;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Ted Beauregard;masculino;Pix
+493;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Joseph Reid;masculino;Boleto
+494;São Paulo;Lucas Pereira;Tablet Apple Ipad;Mary Alford;feminino;Dinheiro
+495;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;John Lyons;masculino;Cartão de credito
+496;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Sana Vance;feminino;Pix
+497;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Douglas Rollefson;masculino;Cartão de credito
+498;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Edna Wofford;feminino;Cartão de credito
+499;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Rodney Zamora;masculino;Pix
+500;Florianopolis;Gabriela Santos;Smartwatch Garmin;Christie Mannion;feminino;Pix
+501;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Cari Rich;feminino;Boleto
+502;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Amanda Steven;feminino;Cartão de credito
+503;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Michelle Dage;feminino;Pix
+504;São Paulo;Lucas Pereira;Fones de ouvido Sony;Fern Jephson;feminino;Dinheiro
+505;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Carl Wang;masculino;Boleto
+506;São Paulo;Lucas Pereira;Fones de ouvido Sony;Robert Lacombe;masculino;Pix
+507;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Ana Craddock;feminino;Pix
+508;São Paulo;Lucas Pereira;Fones de ouvido Sony;Jackie Senior;feminino;Dinheiro
+509;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Joseph Lee;masculino;Cartão de credito
+510;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Joseph Brown;masculino;Boleto
+511;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Samuel Chestnut;masculino;Boleto
+512;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Barry Santana;masculino;Pix
+513;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Evelyn Sparks;feminino;Boleto
+514;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Vernon Hill;masculino;Boleto
+515;São Paulo;Lucas Pereira;Smartwatch Garmin;Fredrick Martin;masculino;Boleto
+516;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Vincent Vaughn;masculino;Cartão de credito
+517;São Paulo;Lucas Pereira;Tablet Apple Ipad;Mary Leach;feminino;Boleto
+518;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Bobby Frost;masculino;Cartão de credito
+519;São Paulo;Lucas Pereira;Tablet Apple Ipad;George Demski;masculino;Dinheiro
+520;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Bertie Otero;feminino;Pix
+521;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Jonathan Dozier;masculino;Cartão de credito
+522;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Katie Roswell;feminino;Cartão de credito
+523;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Patricia Dame;feminino;Boleto
+524;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Tina Carter;feminino;Boleto
+525;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Lydia Hunt;feminino;Dinheiro
+526;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Richard Alexander;masculino;Pix
+527;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Thomas Hughs;masculino;Boleto
+528;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Kurt Gentsy;masculino;Dinheiro
+529;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Cynthia Carden;feminino;Pix
+530;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Rose Blanding;feminino;Dinheiro
+531;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Jason Setzer;masculino;Cartão de credito
+532;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Travis Faris;feminino;Dinheiro
+533;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Elmer Byrne;masculino;Cartão de credito
+534;Porto Alegre;Maria Gomes;Smartwatch Garmin;Darryl Chavez;masculino;Dinheiro
+535;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Sean Russell;masculino;Pix
+536;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Jean Taylor;feminino;Dinheiro
+537;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Robert Wilber;masculino;Pix
+538;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;James Torrez;masculino;Boleto
+539;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Cynthia Laban;feminino;Boleto
+540;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Joseph Bedwell;masculino;Pix
+541;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Milton Sullivan;masculino;Boleto
+542;Florianopolis;Thiago Lima;Fones de ouvido Sony;Rachael Bush;feminino;Cartão de credito
+543;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;William Romo;masculino;Boleto
+544;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Jean Voelkel;feminino;Cartão de credito
+545;Florianopolis;Thiago Lima;Smartwatch Garmin;Pamela Rogers;feminino;Boleto
+546;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Johnnie Dewey;feminino;Pix
+547;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Christina Stevens;feminino;Dinheiro
+548;São Paulo;Ana Oliveira;Smartwatch Garmin;Latosha Gonzalez;feminino;Dinheiro
+549;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Donald Matthews;masculino;Boleto
+550;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Dale Lovelock;masculino;Dinheiro
+551;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Jim Grossman;masculino;Dinheiro
+552;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Angela Johnson;feminino;Pix
+553;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Barbara Thompson;feminino;Pix
+554;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;William Perry;masculino;Dinheiro
+555;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Crystal Langenfeld;feminino;Boleto
+556;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Mary Moore;feminino;Cartão de credito
+557;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Jenny Whapham;feminino;Boleto
+558;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Gregory Beery;masculino;Boleto
+559;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Maria Ramey;feminino;Boleto
+560;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Teresa Bonaccorsi;feminino;Pix
+561;São Paulo;Lucas Pereira;Tablet Apple Ipad;Pearl Vigil;feminino;Cartão de credito
+562;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Neville Villanueva;masculino;Pix
+563;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Sharon Nason;feminino;Dinheiro
+564;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Emanuel Brown;masculino;Cartão de credito
+565;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Thuy Tyler;feminino;Cartão de credito
+566;Porto Alegre;Maria Gomes;Smartwatch Garmin;Bonita Clement;feminino;Boleto
+567;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Alexander Wiggins;masculino;Pix
+568;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Christeen Camilli;feminino;Cartão de credito
+569;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Matthew Voight;masculino;Pix
+570;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Jesse Reed;masculino;Pix
+571;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Byron Rodriguez;masculino;Dinheiro
+572;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Louis Burch;masculino;Pix
+573;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Monica Newby;feminino;Pix
+574;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Bridget Cruz;feminino;Boleto
+575;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Keith Hernandez;masculino;Pix
+576;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Richard Clark;masculino;Boleto
+577;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Joe Burnette;masculino;Cartão de credito
+578;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Steven Miguel;masculino;Dinheiro
+579;São Paulo;Lucas Pereira;Tablet Apple Ipad;Dominic Connors;masculino;Pix
+580;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Bobby Alcala;masculino;Cartão de credito
+581;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Rosa Williams;feminino;Boleto
+582;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Brittany Stanley;feminino;Pix
+583;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Gene Valdes;masculino;Cartão de credito
+584;Porto Alegre;Maria Gomes;Smartwatch Garmin;Janet Richardson;feminino;Pix
+585;Florianopolis;Gabriela Santos;Smartwatch Garmin;Richard Weimar;masculino;Dinheiro
+586;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Stella Galan;feminino;Dinheiro
+587;Florianopolis;Thiago Lima;Tablet Apple Ipad;Jennifer Bell;feminino;Pix
+588;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;David Duhart;masculino;Dinheiro
+589;São Paulo;Ana Oliveira;Smartwatch Garmin;Michelle Laney;feminino;Dinheiro
+590;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Victor Spore;masculino;Boleto
+591;São Paulo;Ana Oliveira;Tablet Apple Ipad;Joanne Wilson;feminino;Cartão de credito
+592;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Barry Reed;masculino;Cartão de credito
+593;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Maria Williams;feminino;Boleto
+594;São Paulo;Lucas Pereira;Smartwatch Garmin;Ida Phillips;feminino;Dinheiro
+595;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Kate Clemons;feminino;Dinheiro
+596;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Phillip Dreesman;masculino;Pix
+597;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Raul Groome;masculino;Dinheiro
+598;São Paulo;Ana Oliveira;Tablet Apple Ipad;Wayne Bristol;masculino;Cartão de credito
+599;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Alton Somerville;masculino;Pix
+600;São Paulo;Lucas Pereira;Fones de ouvido Sony;John Hoffman;masculino;Pix
+601;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Patty Burkett;feminino;Dinheiro
+602;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Daniel Sommers;masculino;Pix
+603;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Clyde Woodford;masculino;Cartão de credito
+604;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Alvin West;masculino;Cartão de credito
+605;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Allison Shanholtzer;feminino;Dinheiro
+606;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Lori Miranda;feminino;Boleto
+607;Florianopolis;Gabriela Santos;Smartwatch Garmin;Ted Parker;masculino;Pix
+608;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Michelle Thomas;feminino;Pix
+609;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Harold Reed;masculino;Dinheiro
+610;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Leslie Meyer;feminino;Pix
+611;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Kip Allen;masculino;Boleto
+612;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Leroy Vickery;masculino;Pix
+613;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Darlene Perdue;feminino;Cartão de credito
+614;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Phillip Carter;masculino;Boleto
+615;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Miguel Baldwin;masculino;Pix
+616;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Johnny Oliverio;masculino;Pix
+617;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Mark Marple;masculino;Boleto
+618;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Vivian Valdovinos;feminino;Pix
+619;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Jolynn Stevens;feminino;Cartão de credito
+620;São Paulo;Ana Oliveira;Smartwatch Garmin;Teresa Gold;feminino;Boleto
+621;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Roberta Riehle;feminino;Dinheiro
+622;São Paulo;Ana Oliveira;Fones de ouvido Sony;Paul Montiel;masculino;Boleto
+623;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Oscar Campbell;masculino;Dinheiro
+624;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Holly Burke;feminino;Pix
+625;Florianopolis;Thiago Lima;Tablet Apple Ipad;Michael Henning;masculino;Dinheiro
+626;Porto Alegre;Maria Gomes;Smartwatch Garmin;Neil Kim;masculino;Dinheiro
+627;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Ronald Tademy;masculino;Dinheiro
+628;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Margaret Thibodeau;feminino;Dinheiro
+629;Florianopolis;Thiago Lima;Fones de ouvido Sony;Gary Garcia;masculino;Dinheiro
+630;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Vivan Piper;feminino;Boleto
+631;São Paulo;Ana Oliveira;Smartwatch Garmin;Eddie Ross;masculino;Dinheiro
+632;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;May Petty;feminino;Boleto
+633;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Vernon Okon;masculino;Pix
+634;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Mark Chidester;masculino;Boleto
+635;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Carol Wakeman;feminino;Cartão de credito
+636;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Elizabeth Harvey;feminino;Pix
+637;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;George Cook;masculino;Cartão de credito
+638;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Lori Brittain;feminino;Pix
+639;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Catherine Rodriguez;feminino;Dinheiro
+640;São Paulo;Ana Oliveira;Smartwatch Garmin;Helen Sullivan;feminino;Dinheiro
+641;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Dolores Hersha;feminino;Cartão de credito
+642;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Margo Mcdowell;feminino;Dinheiro
+643;Porto Alegre;Maria Gomes;Smartwatch Garmin;Charlotte Paongo;feminino;Dinheiro
+644;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Latarsha Lee;feminino;Boleto
+645;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Dorothy Belcher;feminino;Dinheiro
+646;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Rachel Weber;feminino;Boleto
+647;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Jill Thorpe;feminino;Pix
+648;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Margaret Fernandez;feminino;Cartão de credito
+649;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Zachary Castanon;masculino;Boleto
+650;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Thomas Studeny;masculino;Cartão de credito
+651;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Nina Robertson;feminino;Dinheiro
+652;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Shirley Thompson;feminino;Cartão de credito
+653;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Ronnie Ward;masculino;Boleto
+654;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Madeleine Hughes;feminino;Cartão de credito
+655;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Gregory Sturkie;masculino;Dinheiro
+656;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Roland Nodine;masculino;Dinheiro
+657;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Robert Salinas;masculino;Boleto
+658;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Jessie Rosales;masculino;Boleto
+659;Florianopolis;Thiago Lima;Smartwatch Garmin;Stephen Sierra;masculino;Dinheiro
+660;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Elizabeth Swift;feminino;Pix
+661;São Paulo;Lucas Pereira;Smartwatch Garmin;Maryjane Abney;feminino;Cartão de credito
+662;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Kenneth Ritter;masculino;Dinheiro
+663;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Betty Bailey;feminino;Boleto
+664;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Miranda Smith;feminino;Dinheiro
+665;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Frank Hicks;masculino;Cartão de credito
+666;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Jessie Sales;masculino;Pix
+667;Florianopolis;Gabriela Santos;Smartwatch Garmin;Christopher Rock;masculino;Cartão de credito
+668;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;David Burrell;masculino;Boleto
+669;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Dennis Hardin;masculino;Pix
+670;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Sandra Button;feminino;Pix
+671;São Paulo;Ana Oliveira;Fones de ouvido Sony;Rachel Lutz;feminino;Dinheiro
+672;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Richard Hudson;masculino;Pix
+673;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Edward Lindsey;masculino;Cartão de credito
+674;Florianopolis;Thiago Lima;Fones de ouvido Sony;Isaiah Rice;masculino;Dinheiro
+675;Porto Alegre;Maria Gomes;Smartwatch Garmin;Brandon Moore;masculino;Boleto
+676;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Mark Lozano;masculino;Dinheiro
+677;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Rebecca Gailey;feminino;Cartão de credito
+678;Florianopolis;Gabriela Santos;Tablet Apple Ipad;William Drew;masculino;Pix
+679;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Shirleen Adams;feminino;Boleto
+680;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Terry Stinnett;masculino;Cartão de credito
+681;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Brian Orourke;masculino;Boleto
+682;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Edward Coleman;masculino;Dinheiro
+683;Porto Alegre;Maria Gomes;Smartwatch Garmin;Roland Bernal;masculino;Cartão de credito
+684;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Stephanie Lee;feminino;Pix
+685;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Dale Sun;masculino;Dinheiro
+686;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Robert Smith;masculino;Pix
+687;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Sandra Lemley;feminino;Boleto
+688;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Barry Shaw;masculino;Boleto
+689;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Julia Lipinski;feminino;Boleto
+690;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Jan Kelly;masculino;Boleto
+691;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Victoria Havenhill;feminino;Pix
+692;São Paulo;Lucas Pereira;Smartwatch Garmin;Carl Macek;masculino;Boleto
+693;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Robert Hayes;masculino;Boleto
+694;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Mary Myrick;feminino;Cartão de credito
+695;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Ida Willey;feminino;Boleto
+696;Florianopolis;Gabriela Santos;Fones de ouvido Sony;James Daley;masculino;Dinheiro
+697;São Paulo;Ana Oliveira;Tablet Apple Ipad;Frankie Rodiguez;feminino;Boleto
+698;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Albert Homan;masculino;Pix
+699;Florianopolis;Thiago Lima;Tablet Apple Ipad;Angela Trimble;feminino;Boleto
+700;São Paulo;Ana Oliveira;Fones de ouvido Sony;Edna Childress;feminino;Cartão de credito
+701;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;John Dehart;masculino;Pix
+702;Florianopolis;Thiago Lima;Smartwatch Garmin;Janet Hurley;feminino;Boleto
+703;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Gregory Harris;masculino;Pix
+704;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Ann Rivera;feminino;Cartão de credito
+705;São Paulo;Lucas Pereira;Smartwatch Garmin;Kelly Petersen;masculino;Cartão de credito
+706;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Jeremy Foy;masculino;Pix
+707;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Maryann Dufresne;feminino;Dinheiro
+708;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Angela Brush;feminino;Dinheiro
+709;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Travis Millward;masculino;Pix
+710;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Janet Davis;feminino;Pix
+711;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Gregory Ober;masculino;Boleto
+712;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Olivia Heller;feminino;Dinheiro
+713;São Paulo;Lucas Pereira;Fones de ouvido Sony;Ruth Pickens;feminino;Pix
+714;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Nancy Risenhoover;feminino;Pix
+715;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Frank Ortiz;masculino;Cartão de credito
+716;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Kevin Ogle;masculino;Dinheiro
+717;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Scott Buchheit;masculino;Pix
+718;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Bonnie Mikel;feminino;Cartão de credito
+719;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Gretchen Jones;feminino;Dinheiro
+720;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Rick Harvey;masculino;Pix
+721;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Benjamin Smith;masculino;Pix
+722;Florianopolis;Thiago Lima;Smartwatch Garmin;Rachel Robson;feminino;Boleto
+723;Florianopolis;Thiago Lima;Tablet Apple Ipad;Dianne Martinez;feminino;Cartão de credito
+724;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Peter Hoggard;masculino;Pix
+725;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Lisa Farrington;feminino;Cartão de credito
+726;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Russell Cavett;masculino;Cartão de credito
+727;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Nadine Davis;feminino;Pix
+728;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Juanita Allred;feminino;Cartão de credito
+729;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Tamatha Schuett;feminino;Pix
+730;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Megan White;feminino;Cartão de credito
+731;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;John Diggs;masculino;Boleto
+732;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;James Kantor;masculino;Dinheiro
+733;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Jose Cisneros;masculino;Pix
+734;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Mary Soto;feminino;Boleto
+735;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Richard Henshaw;masculino;Cartão de credito
+736;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Sandra Russell;feminino;Pix
+737;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Vivian Davis;feminino;Dinheiro
+738;São Paulo;Ana Oliveira;Smartwatch Garmin;Michael Bowers;masculino;Pix
+739;São Paulo;Ana Oliveira;Tablet Apple Ipad;Joseph Lush;masculino;Cartão de credito
+740;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Leroy Garcia;masculino;Pix
+741;São Paulo;Ana Oliveira;Tablet Apple Ipad;David Rennels;masculino;Dinheiro
+742;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Maureen Grant;feminino;Dinheiro
+743;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Jason Mason;masculino;Cartão de credito
+744;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Bradley Staples;masculino;Pix
+745;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Bobby Imhof;masculino;Dinheiro
+746;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Stephanie Powell;feminino;Cartão de credito
+747;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Nicole Bedwell;feminino;Dinheiro
+748;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Margaret Lohrenz;feminino;Pix
+749;Florianopolis;Thiago Lima;Tablet Apple Ipad;Edna Ramos;feminino;Pix
+750;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Margaret Lewis;feminino;Boleto
+751;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Patti Herrera;feminino;Dinheiro
+752;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Bill Krulik;masculino;Dinheiro
+753;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Steven Rowe;masculino;Cartão de credito
+754;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Ruby Lassiter;feminino;Boleto
+755;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Melissa Begay;feminino;Cartão de credito
+756;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Christy Herrera;feminino;Cartão de credito
+757;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Porfirio Engel;masculino;Cartão de credito
+758;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Dorothy Fuller;feminino;Dinheiro
+759;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Leslie Davis;feminino;Boleto
+760;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;John Megown;masculino;Pix
+761;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Jason Palazzola;masculino;Dinheiro
+762;Florianopolis;Gabriela Santos;Smartwatch Garmin;Michelle Johnson;feminino;Boleto
+763;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Jeffry Washington;masculino;Dinheiro
+764;São Paulo;Lucas Pereira;Smartwatch Garmin;Arturo Danna;masculino;Boleto
+765;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Prudence Sewell;feminino;Boleto
+766;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Evelyn Oconner;feminino;Cartão de credito
+767;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Jennifer Starr;feminino;Dinheiro
+768;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Raymond Pinkerton;masculino;Boleto
+769;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Marcus Teston;masculino;Dinheiro
+770;Florianopolis;Thiago Lima;Tablet Apple Ipad;Frederick Hardman;masculino;Pix
+771;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Adrian Plues;masculino;Dinheiro
+772;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Victoria Ellis;feminino;Boleto
+773;Florianopolis;Thiago Lima;Tablet Apple Ipad;Vanessa Kern;feminino;Cartão de credito
+774;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Lee Williams;feminino;Boleto
+775;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Pearl Fowler;feminino;Boleto
+776;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;David Busse;masculino;Dinheiro
+777;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Sandra Albritton;feminino;Cartão de credito
+778;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Troy Henning;masculino;Pix
+779;São Paulo;Lucas Pereira;Smartwatch Garmin;Maria Anderson;feminino;Dinheiro
+780;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Neil Palmer;masculino;Dinheiro
+781;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;John Deckard;masculino;Cartão de credito
+782;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Willie Bevelacqua;masculino;Cartão de credito
+783;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Nohemi Haines;feminino;Cartão de credito
+784;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Gregory Agudo;masculino;Dinheiro
+785;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Cesar Hurst;masculino;Pix
+786;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Richard Leandry;masculino;Dinheiro
+787;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Scott Sheffield;masculino;Boleto
+788;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Kent Horvath;masculino;Dinheiro
+789;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Joanne Hui;feminino;Cartão de credito
+790;São Paulo;Lucas Pereira;Fones de ouvido Sony;Shawn Miller;masculino;Pix
+791;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Sandra Danos;feminino;Boleto
+792;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Mellissa Williams;feminino;Cartão de credito
+793;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Susanne Vinson;feminino;Boleto
+794;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Dennis Tate;masculino;Cartão de credito
+795;São Paulo;Lucas Pereira;Smartwatch Garmin;Bradley Rowe;masculino;Pix
+796;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Anna Adams;feminino;Boleto
+797;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Judy Losoya;feminino;Boleto
+798;Porto Alegre;Maria Gomes;Smartwatch Garmin;Daniel Bailey;masculino;Pix
+799;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Mark Browning;masculino;Dinheiro
+800;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;James Gregg;masculino;Cartão de credito
+801;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Elizabeth Ketchie;feminino;Dinheiro
+802;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Mark Campos;masculino;Cartão de credito
+803;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Darren Melton;masculino;Boleto
+804;Florianopolis;Thiago Lima;Smartwatch Garmin;Lindsey Gagne;feminino;Dinheiro
+805;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Kimberly Ashford;feminino;Cartão de credito
+806;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Eric Kofford;masculino;Dinheiro
+807;Florianopolis;Thiago Lima;Smartwatch Garmin;Sharon Palmer;feminino;Cartão de credito
+808;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Mary Hardin;feminino;Pix
+809;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Ismael Scroggins;masculino;Pix
+810;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Sandy Svenson;feminino;Cartão de credito
+811;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Curtis Truiolo;masculino;Cartão de credito
+812;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Russell Bullins;masculino;Boleto
+813;Florianopolis;Gabriela Santos;Smartwatch Garmin;Preston Bruce;masculino;Dinheiro
+814;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Lillie Barksdale;feminino;Boleto
+815;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Jean Baucum;feminino;Cartão de credito
+816;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Harry Monske;masculino;Dinheiro
+817;São Paulo;Ana Oliveira;Fones de ouvido Sony;Cindy Carter;feminino;Cartão de credito
+818;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Eleanor Powell;feminino;Boleto
+819;São Paulo;Ana Oliveira;Smartwatch Garmin;Amanda Carter;feminino;Dinheiro
+820;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Barbara Tinkle;feminino;Pix
+821;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Janette Canfield;feminino;Cartão de credito
+822;São Paulo;Ana Oliveira;Fones de ouvido Sony;Anthony Kenyon;masculino;Boleto
+823;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Junior Boyd;masculino;Pix
+824;Porto Alegre;Maria Gomes;Smartwatch Garmin;Paul Davis;masculino;Pix
+825;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Winford Lawson;masculino;Boleto
+826;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Henry Gracie;masculino;Dinheiro
+827;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Floyd Wheeler;masculino;Boleto
+828;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Kyle Garcia;masculino;Boleto
+829;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Robert Castillo;masculino;Pix
+830;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Juan Battle;masculino;Cartão de credito
+831;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Corrie Breland;feminino;Pix
+832;Florianopolis;Thiago Lima;Tablet Apple Ipad;Judith Thomas;feminino;Pix
+833;Porto Alegre;Maria Gomes;Smartwatch Garmin;Inez Wolf;feminino;Boleto
+834;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Betty Walker;feminino;Cartão de credito
+835;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Adam Lau;masculino;Dinheiro
+836;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Mary Bailey;feminino;Pix
+837;Florianopolis;Thiago Lima;Fones de ouvido Sony;William Stafford;masculino;Dinheiro
+838;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Marisol Torres;feminino;Cartão de credito
+839;Florianopolis;Gabriela Santos;Smartwatch Garmin;Lorrie Richmond;feminino;Boleto
+840;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Robert Edwards;masculino;Cartão de credito
+841;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Alfreda Steele;feminino;Boleto
+842;Florianopolis;Thiago Lima;Fones de ouvido Sony;Ernest Norsworthy;masculino;Cartão de credito
+843;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Luciano Smith;masculino;Pix
+844;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Carrie Peterman;feminino;Cartão de credito
+845;Florianopolis;Thiago Lima;Fones de ouvido Sony;Mattie Palm;feminino;Dinheiro
+846;Porto Alegre;Maria Gomes;Smartwatch Garmin;Mary Rodriguez;feminino;Pix
+847;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Daniel Galvez;masculino;Dinheiro
+848;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Jose Moser;masculino;Dinheiro
+849;Florianopolis;Gabriela Santos;Smartwatch Garmin;Sylvia Harvey;feminino;Dinheiro
+850;São Paulo;Ana Oliveira;Tablet Apple Ipad;Kevin Jones;masculino;Boleto
+851;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Marguerite Kelly;feminino;Pix
+852;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Florence Gallo;feminino;Cartão de credito
+853;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;John Mclane;masculino;Pix
+854;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Betty Witt;feminino;Dinheiro
+855;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Patricia Sanders;feminino;Dinheiro
+856;São Paulo;Ana Oliveira;Tablet Apple Ipad;Amber Davis;feminino;Dinheiro
+857;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Louise Bond;feminino;Boleto
+858;Florianopolis;Gabriela Santos;Smartwatch Garmin;Jerry Degeyter;masculino;Boleto
+859;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Kurt Brown;masculino;Dinheiro
+860;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Richard Bayer;masculino;Dinheiro
+861;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Suzette Rojas;feminino;Cartão de credito
+862;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Stella Birkey;feminino;Pix
+863;São Paulo;Lucas Pereira;Fones de ouvido Sony;Deborah Crawford;feminino;Dinheiro
+864;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Linda Kenne;feminino;Pix
+865;São Paulo;Lucas Pereira;Tablet Apple Ipad;Rudolph Roddy;masculino;Boleto
+866;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Arnoldo Burns;masculino;Dinheiro
+867;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Mildred Langley;feminino;Cartão de credito
+868;Florianopolis;Thiago Lima;Tablet Apple Ipad;Ivory Anderson;feminino;Dinheiro
+869;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Hattie Piccolomini;feminino;Boleto
+870;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Daniel Twomey;masculino;Boleto
+871;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Nathan Dorsey;masculino;Pix
+872;São Paulo;Lucas Pereira;Tablet Apple Ipad;Christina Compton;feminino;Boleto
+873;Florianopolis;Gabriela Santos;Smartwatch Garmin;Clarence Moore;masculino;Dinheiro
+874;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Andrew Henderson;masculino;Dinheiro
+875;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Brent Harrison;masculino;Dinheiro
+876;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Carla Ellis;feminino;Dinheiro
+877;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Joshua Thier;masculino;Dinheiro
+878;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Katherine Flynt;feminino;Pix
+879;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Glen Austin;masculino;Cartão de credito
+880;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Ranae Cervantes;feminino;Dinheiro
+881;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Mabel Kuss;feminino;Cartão de credito
+882;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Clare Drew;feminino;Pix
+883;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Dixie Hurrell;feminino;Boleto
+884;São Paulo;Ana Oliveira;Smartwatch Garmin;John Campbell;masculino;Cartão de credito
+885;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Russell Wiebe;masculino;Boleto
+886;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Mary Engleberg;feminino;Boleto
+887;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Danette Walls;feminino;Cartão de credito
+888;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Julie Hogue;feminino;Boleto
+889;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Florence Luchetti;feminino;Boleto
+890;São Paulo;Lucas Pereira;Tablet Apple Ipad;Eric Mcclure;masculino;Dinheiro
+891;Florianopolis;Gabriela Santos;Smartwatch Garmin;Maurita Palmer;feminino;Dinheiro
+892;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Richard Johnson;masculino;Cartão de credito
+893;Florianopolis;Thiago Lima;Smartwatch Garmin;Casey Swims;masculino;Cartão de credito
+894;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Ricky Irizarry;masculino;Boleto
+895;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Sylvia Phillips;feminino;Boleto
+896;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Jay Coats;masculino;Boleto
+897;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Seth Rouse;masculino;Dinheiro
+898;São Paulo;Lucas Pereira;Fones de ouvido Sony;Lillian Williams;feminino;Boleto
+899;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Vivian Kiner;feminino;Pix
+900;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Edward Dobson;masculino;Dinheiro
+901;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;John Peterson;masculino;Dinheiro
+902;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;John Stroup;masculino;Pix
+903;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Herbert Dorst;masculino;Dinheiro
+904;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Christy Dartez;feminino;Pix
+905;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Leslie Perry;feminino;Dinheiro
+906;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Walter Jones;masculino;Dinheiro
+907;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Rogelio Taylor;masculino;Pix
+908;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Yulanda Saumier;feminino;Cartão de credito
+909;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Sheila Vanderkam;feminino;Boleto
+910;São Paulo;Lucas Pereira;Fones de ouvido Sony;James Larimore;masculino;Dinheiro
+911;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Stefanie Blair;feminino;Cartão de credito
+912;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Elizabeth Vanbuskirk;feminino;Boleto
+913;Florianopolis;Thiago Lima;Tablet Apple Ipad;Matthew Pittman;masculino;Dinheiro
+914;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Rebecca Graeser;feminino;Boleto
+915;São Paulo;Ana Oliveira;Smartwatch Garmin;Johanna Cherry;feminino;Pix
+916;São Paulo;Lucas Pereira;Fones de ouvido Sony;Brandon Wright;masculino;Pix
+917;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Margaret Theriault;feminino;Cartão de credito
+918;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Theodore Harris;masculino;Cartão de credito
+919;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Richard Roberts;masculino;Pix
+920;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Irma Kuebler;feminino;Dinheiro
+921;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Nettie Chavez;feminino;Pix
+922;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Victor Hyun;masculino;Pix
+923;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;David Meehan;masculino;Dinheiro
+924;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Sheri Rydberg;feminino;Dinheiro
+925;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Tuyet Mejia;feminino;Pix
+926;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Pansy Pappas;feminino;Pix
+927;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Sharon Babin;feminino;Pix
+928;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Shawn Clayton;masculino;Boleto
+929;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Mark Tregre;masculino;Cartão de credito
+930;São Paulo;Lucas Pereira;Fones de ouvido Sony;Helen Foster;feminino;Boleto
+931;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Karen Murdoch;feminino;Pix
+932;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Micheal Kingston;masculino;Cartão de credito
+933;São Paulo;Ana Oliveira;Fones de ouvido Sony;Florentino Whaley;masculino;Dinheiro
+934;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Frank Easterling;masculino;Dinheiro
+935;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Phyllis Smith;feminino;Boleto
+936;Florianopolis;Thiago Lima;Tablet Apple Ipad;Lavonne Hooker;feminino;Cartão de credito
+937;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Marie Martin;feminino;Boleto
+938;São Paulo;Lucas Pereira;Smartwatch Garmin;Milagros Patterson;feminino;Boleto
+939;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Lorraine Mattis;feminino;Dinheiro
+940;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Esther Ciraulo;feminino;Dinheiro
+941;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Priscilla Johnson;feminino;Dinheiro
+942;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Jessie Johnson;masculino;Dinheiro
+943;São Paulo;Lucas Pereira;Smartwatch Garmin;Oscar Baldwin;masculino;Cartão de credito
+944;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Roy Daughters;masculino;Dinheiro
+945;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Vada Niles;feminino;Dinheiro
+946;Florianopolis;Thiago Lima;Fones de ouvido Sony;William Bingler;masculino;Boleto
+947;São Paulo;Lucas Pereira;Smartwatch Garmin;Victoria Sevilla;feminino;Pix
+948;São Paulo;Ana Oliveira;Smartwatch Garmin;Debra Hobart;feminino;Boleto
+949;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Jacob Tomlinson;masculino;Dinheiro
+950;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Edward Ensign;masculino;Dinheiro
+951;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Timothy Causey;masculino;Dinheiro
+952;São Paulo;Ana Oliveira;Smartwatch Garmin;Margie Velasquez;feminino;Boleto
+953;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Edward Tucker;masculino;Pix
+954;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Kimberly Gorham;feminino;Pix
+955;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Angel Chestnut;masculino;Pix
+956;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Cynthia Leath;feminino;Dinheiro
+957;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Linda Burney;feminino;Pix
+958;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Susan Harrison;feminino;Pix
+959;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Francisco Hooker;masculino;Cartão de credito
+960;Florianopolis;Gabriela Santos;Smartwatch Garmin;Christopher Carolina;masculino;Cartão de credito
+961;São Paulo;Lucas Pereira;Smartwatch Garmin;Jonathan Eligio;masculino;Pix
+962;Florianopolis;Gabriela Santos;Smartwatch Garmin;Robert Gutierrez;masculino;Boleto
+963;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Sara Kifer;feminino;Dinheiro
+964;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Emilio Mullen;masculino;Boleto
+965;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Daniel Montgomery;masculino;Pix
+966;São Paulo;Lucas Pereira;Tablet Apple Ipad;Shirley Briggs;feminino;Cartão de credito
+967;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Sara Torsiello;feminino;Dinheiro
+968;São Paulo;Ana Oliveira;Smartwatch Garmin;Teresa Stimmell;feminino;Pix
+969;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Rosemary Curtis;feminino;Cartão de credito
+970;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Michael Booker;masculino;Dinheiro
+971;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;William Miller;masculino;Dinheiro
+972;São Paulo;Lucas Pereira;Tablet Apple Ipad;Jay Hsu;masculino;Cartão de credito
+973;São Paulo;Ana Oliveira;Smartwatch Garmin;Joseph Abbey;masculino;Pix
+974;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Pamela Stephens;feminino;Dinheiro
+975;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Howard Thornberg;masculino;Cartão de credito
+976;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Mary Colton;feminino;Pix
+977;Porto Alegre;Maria Gomes;Smartwatch Garmin;Carrol Roberts;feminino;Pix
+978;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Sarah Drake;feminino;Cartão de credito
+979;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Bambi Pitts;feminino;Cartão de credito
+980;São Paulo;Ana Oliveira;Smartwatch Garmin;Ruby Frye;feminino;Boleto
+981;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Edna Carver;feminino;Boleto
+982;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Joseph Vigor;masculino;Dinheiro
+983;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Mitchell Logan;masculino;Pix
+984;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Annie James;feminino;Cartão de credito
+985;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Virginia Breceda;feminino;Cartão de credito
+986;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Melissa Wyman;feminino;Cartão de credito
+987;São Paulo;Lucas Pereira;Fones de ouvido Sony;Jerry Le;masculino;Boleto
+988;Porto Alegre;Maria Gomes;Smartwatch Garmin;William Tyus;masculino;Boleto
+989;Florianopolis;Thiago Lima;Smartwatch Garmin;John Binder;masculino;Dinheiro
+990;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Eleanor Dabrowski;feminino;Pix
+991;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Brenda Black;feminino;Dinheiro
+992;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Roy Rohr;masculino;Dinheiro
+993;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Thomas Woody;masculino;Cartão de credito
+994;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Lora Chandler;feminino;Boleto
+995;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Preston Peck;masculino;Boleto
+996;São Paulo;Ana Oliveira;Smartwatch Garmin;Sherman Wilson;masculino;Cartão de credito
+997;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Michael Quinney;masculino;Cartão de credito
+998;Florianopolis;Gabriela Santos;Smartwatch Garmin;Ricardo Winston;masculino;Cartão de credito
+999;São Paulo;Ana Oliveira;Smartwatch Garmin;Jennifer Hayes;feminino;Cartão de credito
+1000;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Evelyn Dalton;feminino;Cartão de credito
+1001;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Gerald Webster;masculino;Cartão de credito
+1002;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Mindy Thigpen;feminino;Cartão de credito
+1003;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Johnnie Nissen;feminino;Cartão de credito
+1004;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Helen Bertram;feminino;Cartão de credito
+1005;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;John Scharf;masculino;Dinheiro
+1006;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Steven Lafleur;masculino;Dinheiro
+1007;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Gary Ahrens;masculino;Cartão de credito
+1008;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Beatrice Villicana;feminino;Dinheiro
+1009;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;James Draper;masculino;Cartão de credito
+1010;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Romeo Brown;masculino;Cartão de credito
+1011;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Amy Pollack;feminino;Pix
+1012;Florianopolis;Thiago Lima;Fones de ouvido Sony;Virginia Sammons;feminino;Cartão de credito
+1013;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;James Stout;masculino;Cartão de credito
+1014;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Dustin Wilson;masculino;Boleto
+1015;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Marylou Flynn;feminino;Pix
+1016;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Jane Fischer;feminino;Boleto
+1017;Florianopolis;Thiago Lima;Fones de ouvido Sony;Timothy Smith;masculino;Pix
+1018;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Josie Lavole;feminino;Dinheiro
+1019;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Cynthia Hyde;feminino;Boleto
+1020;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Daniel Adams;masculino;Dinheiro
+1021;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Carolyn Stacey;feminino;Pix
+1022;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Wendell Haun;masculino;Cartão de credito
+1023;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Carolyn Mcmichael;feminino;Pix
+1024;Florianopolis;Gabriela Santos;Smartwatch Garmin;Michael Francis;masculino;Dinheiro
+1025;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Robert Lee;masculino;Pix
+1026;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Sheila Smith;feminino;Boleto
+1027;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Anthony Schwerdtfeger;masculino;Cartão de credito
+1028;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Michael Wise;masculino;Dinheiro
+1029;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Jacqualine Wynne;feminino;Pix
+1030;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Donna Lingelbach;feminino;Cartão de credito
+1031;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Jimmie Sims;masculino;Pix
+1032;São Paulo;Ana Oliveira;Fones de ouvido Sony;Myrtle Tinsley;feminino;Pix
+1033;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Rachel Buss;feminino;Pix
+1034;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;William Israel;masculino;Boleto
+1035;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Franklin Rheaume;masculino;Cartão de credito
+1036;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Betty Casillas;feminino;Pix
+1037;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Misty Greenwood;feminino;Pix
+1038;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Mathew Denard;masculino;Cartão de credito
+1039;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Anne Kays;feminino;Boleto
+1040;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Patricia Cacciotti;feminino;Pix
+1041;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Victoria Stout;feminino;Dinheiro
+1042;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Leroy Raynor;masculino;Dinheiro
+1043;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Hattie Hadley;feminino;Boleto
+1044;Florianopolis;Gabriela Santos;Smartwatch Garmin;Christopher Wilkerson;masculino;Boleto
+1045;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Loyd Robinson;masculino;Dinheiro
+1046;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Hazel Nagata;feminino;Cartão de credito
+1047;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Byron Surratt;masculino;Boleto
+1048;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Raymond Lillpop;masculino;Dinheiro
+1049;São Paulo;Lucas Pereira;Fones de ouvido Sony;Bethany Pineiro;feminino;Pix
+1050;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Alexandria Rhoades;feminino;Boleto
+1051;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Charles Juarez;masculino;Pix
+1052;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Andre Rizzi;masculino;Cartão de credito
+1053;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Frank Fane;masculino;Boleto
+1054;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Jerry Geary;masculino;Pix
+1055;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Richard Trombly;masculino;Boleto
+1056;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Dennis Vann;masculino;Cartão de credito
+1057;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Brenda Howard;feminino;Dinheiro
+1058;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Allen Moore;masculino;Boleto
+1059;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Clement Hanlon;masculino;Boleto
+1060;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Quinton Brockett;masculino;Boleto
+1061;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Paul Heber;masculino;Boleto
+1062;Florianopolis;Thiago Lima;Smartwatch Garmin;Jerrod Snodgrass;masculino;Cartão de credito
+1063;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Kimberly Enge;feminino;Cartão de credito
+1064;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Lee Adcock;masculino;Cartão de credito
+1065;Florianopolis;Thiago Lima;Fones de ouvido Sony;Amanda Castiglione;feminino;Dinheiro
+1066;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Roger Cotton;masculino;Cartão de credito
+1067;São Paulo;Ana Oliveira;Smartwatch Garmin;Deborah Farmer;feminino;Pix
+1068;Porto Alegre;Maria Gomes;Smartwatch Garmin;Glenn Goins;masculino;Pix
+1069;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Xiomara Schwalbe;feminino;Cartão de credito
+1070;São Paulo;Lucas Pereira;Tablet Apple Ipad;Carley Reader;feminino;Pix
+1071;São Paulo;Lucas Pereira;Fones de ouvido Sony;Fidela Adams;feminino;Pix
+1072;São Paulo;Ana Oliveira;Fones de ouvido Sony;Emily Valenzuela;feminino;Boleto
+1073;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Ruby Holm;feminino;Boleto
+1074;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Cynthia Agudo;feminino;Pix
+1075;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Minerva Conley;feminino;Boleto
+1076;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Jeanette Boerger;feminino;Dinheiro
+1077;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Richard Davis;masculino;Cartão de credito
+1078;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Michael Roswell;masculino;Pix
+1079;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Anita Russell;feminino;Cartão de credito
+1080;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Chris Folse;feminino;Cartão de credito
+1081;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Perry Steck;masculino;Dinheiro
+1082;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Richard Ervin;masculino;Boleto
+1083;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Herbert Brantley;masculino;Pix
+1084;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Terry Fujimoto;feminino;Cartão de credito
+1085;São Paulo;Lucas Pereira;Smartwatch Garmin;Dennis Myers;masculino;Cartão de credito
+1086;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Erica Cortez;feminino;Boleto
+1087;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;William Ross;masculino;Boleto
+1088;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Donna Bentley;feminino;Dinheiro
+1089;Porto Alegre;Maria Gomes;Smartwatch Garmin;Jason Newport;masculino;Pix
+1090;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;David Mullins;masculino;Dinheiro
+1091;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Tracy Lambert;feminino;Dinheiro
+1092;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Linda Diaz;feminino;Cartão de credito
+1093;São Paulo;Lucas Pereira;Tablet Apple Ipad;Allen Kimbler;masculino;Pix
+1094;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Carol Wagner;feminino;Cartão de credito
+1095;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Claudia Collier;feminino;Boleto
+1096;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Doretha Lombardo;feminino;Cartão de credito
+1097;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Monique Qualls;feminino;Boleto
+1098;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Mark Ahmed;masculino;Boleto
+1099;São Paulo;Lucas Pereira;Fones de ouvido Sony;Mary Ross;feminino;Cartão de credito
+1100;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Marian Nelson;feminino;Dinheiro
+1101;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Lucina Ault;feminino;Pix
+1102;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;David Moses;masculino;Dinheiro
+1103;São Paulo;Lucas Pereira;Tablet Apple Ipad;Jason Sedrakyan;masculino;Pix
+1104;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Ana Cole;feminino;Cartão de credito
+1105;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Johnny Lewis;masculino;Pix
+1106;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Julie Crespo;feminino;Pix
+1107;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Walter Drummond;masculino;Dinheiro
+1108;São Paulo;Ana Oliveira;Smartwatch Garmin;Desire Hegg;feminino;Boleto
+1109;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Yoko Subido;feminino;Cartão de credito
+1110;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Victor Mcmichael;masculino;Boleto
+1111;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Paul Haskell;masculino;Pix
+1112;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Linda Barnett;feminino;Cartão de credito
+1113;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Jorge Ledoux;masculino;Pix
+1114;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;John Lansing;masculino;Cartão de credito
+1115;São Paulo;Lucas Pereira;Tablet Apple Ipad;Patricia Anderson;feminino;Cartão de credito
+1116;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Mark Lisby;masculino;Cartão de credito
+1117;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Damien Brooks;masculino;Pix
+1118;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Ashley Maguire;feminino;Pix
+1119;Florianopolis;Gabriela Santos;Smartwatch Garmin;Erin Carroll;feminino;Boleto
+1120;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Gregory Fitts;masculino;Dinheiro
+1121;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Erik Wilson;masculino;Dinheiro
+1122;São Paulo;Lucas Pereira;Tablet Apple Ipad;Dennis Diaz;masculino;Boleto
+1123;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Justin Desilva;masculino;Cartão de credito
+1124;São Paulo;Ana Oliveira;Fones de ouvido Sony;Roberto Rapp;masculino;Cartão de credito
+1125;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;John Andre;masculino;Boleto
+1126;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Pauline Belcher;feminino;Pix
+1127;São Paulo;Lucas Pereira;Tablet Apple Ipad;Anthony Sosa;masculino;Boleto
+1128;Porto Alegre;Maria Gomes;Smartwatch Garmin;Melinda Cromer;feminino;Pix
+1129;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Nancy Badgett;feminino;Dinheiro
+1130;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Jeffrey Zona;masculino;Pix
+1131;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Edward Suggs;masculino;Boleto
+1132;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Alexis Mercado;feminino;Dinheiro
+1133;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Anna Horan;feminino;Boleto
+1134;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;John Braun;masculino;Pix
+1135;São Paulo;Ana Oliveira;Tablet Apple Ipad;Rebecca Roa;feminino;Cartão de credito
+1136;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;James Cook;masculino;Pix
+1137;São Paulo;Lucas Pereira;Smartwatch Garmin;Jon Ashley;masculino;Boleto
+1138;Florianopolis;Thiago Lima;Fones de ouvido Sony;Debra Mauldin;feminino;Dinheiro
+1139;São Paulo;Ana Oliveira;Fones de ouvido Sony;Sean Nelson;masculino;Boleto
+1140;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;George Shaver;masculino;Pix
+1141;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Mandy Hoffman;feminino;Boleto
+1142;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Bruce Palmer;masculino;Boleto
+1143;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Rose Johnson;feminino;Boleto
+1144;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Justin Fowler;masculino;Cartão de credito
+1145;São Paulo;Ana Oliveira;Tablet Apple Ipad;Norma Doty;feminino;Dinheiro
+1146;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Karla Westbrook;feminino;Dinheiro
+1147;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Cory Mccullough;masculino;Dinheiro
+1148;Florianopolis;Gabriela Santos;Smartwatch Garmin;James Robinson;masculino;Pix
+1149;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Brian Shoemaker;masculino;Dinheiro
+1150;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Earline Yang;feminino;Pix
+1151;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Beryl Gore;feminino;Pix
+1152;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Gladys Foster;feminino;Dinheiro
+1153;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Antonio Ho;masculino;Pix
+1154;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;James Howie;masculino;Boleto
+1155;São Paulo;Ana Oliveira;Smartwatch Garmin;Lyndsey Hamilton;feminino;Pix
+1156;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Ronald Hubbard;masculino;Cartão de credito
+1157;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Christine Johnson;feminino;Dinheiro
+1158;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Billy Huckaby;masculino;Cartão de credito
+1159;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Joseph Davis;masculino;Dinheiro
+1160;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Scott Lanzo;masculino;Boleto
+1161;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Kevin Cowan;masculino;Cartão de credito
+1162;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Joseph Geary;masculino;Boleto
+1163;São Paulo;Ana Oliveira;Tablet Apple Ipad;Erica Whitworth;feminino;Cartão de credito
+1164;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Beulah Quarles;feminino;Pix
+1165;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Evelyn Mcclendon;feminino;Boleto
+1166;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Randolph Ward;masculino;Dinheiro
+1167;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Lucia Peterson;feminino;Cartão de credito
+1168;São Paulo;Ana Oliveira;Tablet Apple Ipad;David Howard;masculino;Boleto
+1169;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;George Verity;masculino;Pix
+1170;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Chris Bak;masculino;Pix
+1171;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Russell Quinn;masculino;Pix
+1172;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Steven Collom;masculino;Pix
+1173;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Floy Snider;feminino;Cartão de credito
+1174;São Paulo;Lucas Pereira;Smartwatch Garmin;Alice Mitchell;feminino;Dinheiro
+1175;Florianopolis;Thiago Lima;Tablet Apple Ipad;Lillie Smith;feminino;Dinheiro
+1176;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Tony Jordan;masculino;Boleto
+1177;Florianopolis;Thiago Lima;Fones de ouvido Sony;Rose Robertson;feminino;Boleto
+1178;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Connie Demps;feminino;Dinheiro
+1179;São Paulo;Ana Oliveira;Smartwatch Garmin;Jarrod Pearsall;masculino;Pix
+1180;Florianopolis;Gabriela Santos;Smartwatch Garmin;Marie Ingalls;feminino;Cartão de credito
+1181;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Theodore Allen;masculino;Dinheiro
+1182;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Christopher Bernardy;masculino;Pix
+1183;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Logan Totten;masculino;Pix
+1184;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;James King;masculino;Boleto
+1185;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;James Phelan;masculino;Boleto
+1186;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Sylvia Betterton;feminino;Dinheiro
+1187;São Paulo;Ana Oliveira;Tablet Apple Ipad;David Hoang;masculino;Cartão de credito
+1188;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Carole Corbett;feminino;Dinheiro
+1189;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Richard Arguelles;masculino;Pix
+1190;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Walter Mcdonough;masculino;Cartão de credito
+1191;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Clinton Cantu;masculino;Pix
+1192;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Frances Chappell;feminino;Pix
+1193;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Sheri Escobar;feminino;Pix
+1194;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Clifford Fregoso;masculino;Boleto
+1195;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Alma Sorensen;feminino;Boleto
+1196;Florianopolis;Thiago Lima;Fones de ouvido Sony;Sharon Anaya;feminino;Pix
+1197;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Gregory Mester;masculino;Pix
+1198;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Stephen Alvarado;masculino;Dinheiro
+1199;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Larry Thompson;masculino;Cartão de credito
+1200;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;David Furman;masculino;Cartão de credito
+1201;São Paulo;Ana Oliveira;Tablet Apple Ipad;Brett Howard;masculino;Pix
+1202;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Jacqueline Thomas;feminino;Boleto
+1203;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Terrence Harris;masculino;Dinheiro
+1204;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Michael Dunn;masculino;Boleto
+1205;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Gary Fackrell;masculino;Dinheiro
+1206;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Joanna Garcia;feminino;Dinheiro
+1207;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Alfred Tellez;masculino;Dinheiro
+1208;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Dorothy Cantara;feminino;Boleto
+1209;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Clara Santos;feminino;Pix
+1210;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Tracy Kneser;feminino;Cartão de credito
+1211;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Kelly Combs;feminino;Cartão de credito
+1212;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Gregory Wallace;masculino;Dinheiro
+1213;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Linda Towler;feminino;Dinheiro
+1214;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Enrique Williams;masculino;Boleto
+1215;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Reva Kuhns;feminino;Pix
+1216;São Paulo;Ana Oliveira;Smartwatch Garmin;Annie Sine;feminino;Pix
+1217;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Marc Wilson;masculino;Boleto
+1218;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Francisco Jones;masculino;Boleto
+1219;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Stephanie Smith;feminino;Pix
+1220;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Belinda Smith;feminino;Dinheiro
+1221;São Paulo;Lucas Pereira;Tablet Apple Ipad;Linda Barclay;feminino;Pix
+1222;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Timothy Miller;masculino;Cartão de credito
+1223;São Paulo;Ana Oliveira;Tablet Apple Ipad;Helen Hofmann;feminino;Pix
+1224;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;George Patrick;masculino;Boleto
+1225;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Marshall Spring;masculino;Boleto
+1226;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Donna Scanlan;feminino;Dinheiro
+1227;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Ben Ritchie;masculino;Boleto
+1228;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;James Hopper;masculino;Cartão de credito
+1229;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Leslie Reed;feminino;Dinheiro
+1230;Florianopolis;Thiago Lima;Fones de ouvido Sony;George Piper;masculino;Cartão de credito
+1231;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Annette Mcfadden;feminino;Dinheiro
+1232;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Rosalie Hendley;feminino;Dinheiro
+1233;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Renee Holtrop;feminino;Boleto
+1234;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Laura Spruill;feminino;Cartão de credito
+1235;Florianopolis;Thiago Lima;Smartwatch Garmin;Robert Batie;masculino;Pix
+1236;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Kelly Hensley;feminino;Dinheiro
+1237;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Linda Stallcup;feminino;Pix
+1238;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Robert Dobratz;masculino;Pix
+1239;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Robert Robbins;masculino;Pix
+1240;São Paulo;Ana Oliveira;Fones de ouvido Sony;Jessica Whisenant;feminino;Cartão de credito
+1241;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;William Pacheco;masculino;Boleto
+1242;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Nancy Gilleland;feminino;Boleto
+1243;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Debra Gibson;feminino;Dinheiro
+1244;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Jody Hartz;masculino;Pix
+1245;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Beatrice Baca;feminino;Dinheiro
+1246;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Otis Harder;masculino;Boleto
+1247;Florianopolis;Thiago Lima;Smartwatch Garmin;Bryan Farrell;masculino;Boleto
+1248;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Yen Toney;feminino;Pix
+1249;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Nieves Young;feminino;Boleto
+1250;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Matthew Perry;masculino;Boleto
+1251;São Paulo;Ana Oliveira;Smartwatch Garmin;Freddie Stephens;masculino;Dinheiro
+1252;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Inell Depalma;feminino;Pix
+1253;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Becky Peacemaker;feminino;Cartão de credito
+1254;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Lakesha Becker;feminino;Cartão de credito
+1255;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;James Hutton;masculino;Cartão de credito
+1256;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Kevin Pedlow;masculino;Boleto
+1257;São Paulo;Lucas Pereira;Smartwatch Garmin;Annette Tillman;feminino;Dinheiro
+1258;São Paulo;Ana Oliveira;Tablet Apple Ipad;Jonathan Pappalardo;masculino;Pix
+1259;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Brittany Hoagland;feminino;Dinheiro
+1260;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Angel Roddick;masculino;Boleto
+1261;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Lisa Anderson;feminino;Dinheiro
+1262;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Heather Neumayer;feminino;Boleto
+1263;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Paul Marshall;masculino;Pix
+1264;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Sara Norton;feminino;Boleto
+1265;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Don Matlock;masculino;Pix
+1266;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Kent Armitage;masculino;Dinheiro
+1267;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Yvette Jones;feminino;Pix
+1268;Florianopolis;Thiago Lima;Fones de ouvido Sony;Ernest Luke;masculino;Dinheiro
+1269;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Kenneth Gourley;masculino;Pix
+1270;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Kenneth Monsen;masculino;Dinheiro
+1271;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Helen Miller;feminino;Cartão de credito
+1272;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;David Bourne;masculino;Dinheiro
+1273;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Eugene Williams;masculino;Boleto
+1274;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Erin Puckett;feminino;Boleto
+1275;São Paulo;Ana Oliveira;Fones de ouvido Sony;Myrtle Coe;feminino;Boleto
+1276;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Willie Wagner;masculino;Dinheiro
+1277;São Paulo;Lucas Pereira;Smartwatch Garmin;Annie Balde;feminino;Pix
+1278;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Cherilyn Pacheco;feminino;Cartão de credito
+1279;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Betty Williams;feminino;Dinheiro
+1280;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Douglas Pritchett;masculino;Boleto
+1281;São Paulo;Lucas Pereira;Tablet Apple Ipad;Wendy Darby;feminino;Cartão de credito
+1282;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Emerson Staten;masculino;Boleto
+1283;São Paulo;Ana Oliveira;Smartwatch Garmin;Sue Sanford;feminino;Cartão de credito
+1284;São Paulo;Ana Oliveira;Tablet Apple Ipad;Kimberly Workman;feminino;Boleto
+1285;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Dora Hvizdos;feminino;Pix
+1286;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Barbara Garcia;feminino;Dinheiro
+1287;Florianopolis;Thiago Lima;Fones de ouvido Sony;Stuart Anderson;masculino;Cartão de credito
+1288;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Marcelino Washington;masculino;Cartão de credito
+1289;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Gary Bracken;masculino;Dinheiro
+1290;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Patrick Yang;masculino;Boleto
+1291;São Paulo;Ana Oliveira;Fones de ouvido Sony;Penny Randolph;feminino;Pix
+1292;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Melissa Hendrickson;feminino;Boleto
+1293;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Pedro Hodge;masculino;Cartão de credito
+1294;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Ray Horton;masculino;Dinheiro
+1295;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Martha Davis;feminino;Pix
+1296;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Clifford Raper;masculino;Boleto
+1297;Porto Alegre;Maria Gomes;Smartwatch Garmin;Kenneth Baisden;masculino;Cartão de credito
+1298;Florianopolis;Thiago Lima;Smartwatch Garmin;Ramona Brown;feminino;Boleto
+1299;São Paulo;Ana Oliveira;Fones de ouvido Sony;Carol Salinas;feminino;Pix
+1300;Florianopolis;Thiago Lima;Smartwatch Garmin;Kimberly Holden;feminino;Dinheiro
+1301;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;John Friend;masculino;Pix
+1302;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Andrew Harstad;masculino;Boleto
+1303;Florianopolis;Gabriela Santos;Fones de ouvido Sony;James Watson;masculino;Dinheiro
+1304;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Allyson Carvajal;feminino;Cartão de credito
+1305;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Angie Barker;feminino;Boleto
+1306;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Bradford Mendez;masculino;Pix
+1307;Florianopolis;Thiago Lima;Tablet Apple Ipad;Sheila James;feminino;Dinheiro
+1308;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Jeff Athey;masculino;Cartão de credito
+1309;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Lucienne Shannon;feminino;Pix
+1310;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Willard Cole;masculino;Boleto
+1311;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Cecil Talavera;masculino;Cartão de credito
+1312;Florianopolis;Gabriela Santos;Smartwatch Garmin;Betty Blackwell;feminino;Cartão de credito
+1313;Florianopolis;Gabriela Santos;Smartwatch Garmin;Ruby Galle;feminino;Dinheiro
+1314;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Stanley Shakir;masculino;Pix
+1315;Florianopolis;Gabriela Santos;Smartwatch Garmin;Katherine Cox;feminino;Pix
+1316;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Christopher Koch;masculino;Boleto
+1317;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Susan Koffman;feminino;Boleto
+1318;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Hye Cox;feminino;Pix
+1319;Porto Alegre;Maria Gomes;Smartwatch Garmin;Joseph Audet;masculino;Boleto
+1320;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Connie Hopkins;feminino;Pix
+1321;Florianopolis;Thiago Lima;Tablet Apple Ipad;Irwin Dunn;masculino;Boleto
+1322;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Robbie Conner;feminino;Cartão de credito
+1323;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Janet Miranda;feminino;Cartão de credito
+1324;Florianopolis;Gabriela Santos;Smartwatch Garmin;Melissa Shelby;feminino;Cartão de credito
+1325;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Shelly Fields;feminino;Dinheiro
+1326;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Heather Blaser;feminino;Cartão de credito
+1327;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Douglas Forry;masculino;Cartão de credito
+1328;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Mary Rouse;feminino;Boleto
+1329;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Irma Matthews;feminino;Cartão de credito
+1330;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Tyler King;masculino;Pix
+1331;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;John Heuck;masculino;Dinheiro
+1332;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Trudy Salisbury;feminino;Pix
+1333;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Robert Mcknight;masculino;Pix
+1334;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Bonnie Capers;feminino;Dinheiro
+1335;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Rudolph Miller;masculino;Boleto
+1336;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Vicki Evanson;feminino;Cartão de credito
+1337;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Melanie Mula;feminino;Boleto
+1338;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Richard Turner;masculino;Cartão de credito
+1339;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Nancy Hall;feminino;Boleto
+1340;Porto Alegre;Maria Gomes;Smartwatch Garmin;Abigail Johnson;feminino;Pix
+1341;São Paulo;Ana Oliveira;Tablet Apple Ipad;Anthony Camargo;masculino;Cartão de credito
+1342;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Karen Masterson;feminino;Boleto
+1343;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Patricia Estrella;feminino;Pix
+1344;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Janice Dover;feminino;Pix
+1345;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Donald Miles;masculino;Pix
+1346;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Thomas Sanderson;masculino;Boleto
+1347;Florianopolis;Gabriela Santos;Smartwatch Garmin;Rose Freese;feminino;Cartão de credito
+1348;Florianopolis;Gabriela Santos;Smartwatch Garmin;Barbra Robertson;feminino;Cartão de credito
+1349;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Denise Toledo;feminino;Boleto
+1350;Florianopolis;Thiago Lima;Fones de ouvido Sony;Shirley Madden;feminino;Boleto
+1351;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;James Rickman;masculino;Dinheiro
+1352;Porto Alegre;Maria Gomes;Smartwatch Garmin;Beverly Hilton;feminino;Boleto
+1353;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Donna Re;feminino;Pix
+1354;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Albertha Petermann;feminino;Dinheiro
+1355;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Paul Richner;masculino;Pix
+1356;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Luis Bartelt;masculino;Boleto
+1357;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Thelma Griego;feminino;Pix
+1358;Florianopolis;Gabriela Santos;Smartwatch Garmin;Bradley Walters;masculino;Pix
+1359;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Sean Carrell;masculino;Cartão de credito
+1360;São Paulo;Ana Oliveira;Fones de ouvido Sony;Winifred Gandy;feminino;Boleto
+1361;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Orlando Mcnabb;masculino;Cartão de credito
+1362;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Phyllis Payton;feminino;Pix
+1363;São Paulo;Ana Oliveira;Tablet Apple Ipad;Thomas Greer;masculino;Dinheiro
+1364;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Graciela Groves;feminino;Cartão de credito
+1365;Florianopolis;Gabriela Santos;Smartwatch Garmin;Angeline Austin;feminino;Cartão de credito
+1366;Florianopolis;Thiago Lima;Fones de ouvido Sony;Ryan Kuhn;masculino;Cartão de credito
+1367;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Cherryl Nail;feminino;Boleto
+1368;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Robert Dewitt;masculino;Boleto
+1369;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Susanna Sharley;feminino;Boleto
+1370;Florianopolis;Gabriela Santos;Smartwatch Garmin;Woodrow Magnuson;masculino;Boleto
+1371;São Paulo;Ana Oliveira;Fones de ouvido Sony;Stephen Hamff;masculino;Boleto
+1372;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Mildred Howard;feminino;Dinheiro
+1373;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Johnny Johnson;masculino;Dinheiro
+1374;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Andre Hughes;masculino;Dinheiro
+1375;São Paulo;Lucas Pereira;Fones de ouvido Sony;Randy Easter;masculino;Dinheiro
+1376;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Linda Barnett;feminino;Boleto
+1377;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;David Crutchfield;masculino;Pix
+1378;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Yuko Dudley;feminino;Boleto
+1379;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Fred Dunlap;masculino;Dinheiro
+1380;Florianopolis;Thiago Lima;Smartwatch Garmin;Michael Martin;masculino;Cartão de credito
+1381;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Alejandro Elsey;masculino;Pix
+1382;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Rose Stones;feminino;Boleto
+1383;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Roberto Theus;masculino;Boleto
+1384;São Paulo;Ana Oliveira;Smartwatch Garmin;Masako Charles;feminino;Cartão de credito
+1385;Porto Alegre;Maria Gomes;Smartwatch Garmin;Miriam Egan;feminino;Dinheiro
+1386;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Donna Fujioka;feminino;Dinheiro
+1387;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Samuel Barnett;masculino;Boleto
+1388;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Joshua Jackson;masculino;Pix
+1389;São Paulo;Lucas Pereira;Tablet Apple Ipad;Ashley Osgood;feminino;Boleto
+1390;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Maxine Elliott;feminino;Pix
+1391;Florianopolis;Gabriela Santos;Smartwatch Garmin;Roxanne Crow;feminino;Cartão de credito
+1392;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Doris Allen;feminino;Dinheiro
+1393;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Mary Wheeler;feminino;Cartão de credito
+1394;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Evelyn Royse;feminino;Dinheiro
+1395;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Margaret Penwell;feminino;Boleto
+1396;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Norma Smith;feminino;Pix
+1397;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Sallie Jones;feminino;Boleto
+1398;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Sandra Davis;feminino;Dinheiro
+1399;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Christopher Ibarra;masculino;Pix
+1400;São Paulo;Lucas Pereira;Smartwatch Garmin;Susan Poore;feminino;Pix
+1401;Porto Alegre;Maria Gomes;Fones de ouvido Sony;John Carrigan;masculino;Dinheiro
+1402;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Thomas Lee;masculino;Dinheiro
+1403;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Jesus Doughty;masculino;Pix
+1404;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Judith Chambers;feminino;Pix
+1405;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Maria Fraser;feminino;Boleto
+1406;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Diane Crumble;feminino;Cartão de credito
+1407;Florianopolis;Gabriela Santos;Smartwatch Garmin;Irene Minnerly;feminino;Cartão de credito
+1408;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Nora Knight;feminino;Dinheiro
+1409;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Ann Mcadams;feminino;Boleto
+1410;Florianopolis;Thiago Lima;Tablet Apple Ipad;Karen Murray;feminino;Pix
+1411;Porto Alegre;Maria Gomes;Smartwatch Garmin;Billy Coore;feminino;Pix
+1412;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Mable Huddleston;feminino;Boleto
+1413;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Larry Craft;masculino;Dinheiro
+1414;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Laura Degaetano;feminino;Pix
+1415;Porto Alegre;Maria Gomes;Smartwatch Garmin;Jeri Neihart;feminino;Cartão de credito
+1416;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Hester Morgan;feminino;Pix
+1417;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Christopher Cox;masculino;Pix
+1418;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Jean Baumann;feminino;Pix
+1419;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Norman Gann;masculino;Cartão de credito
+1420;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Kenneth Alford;masculino;Dinheiro
+1421;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Ann Kramer;feminino;Cartão de credito
+1422;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Jamal Norton;masculino;Cartão de credito
+1423;São Paulo;Lucas Pereira;Smartwatch Garmin;Phyllis Whitaker;feminino;Pix
+1424;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Kenneth Niles;masculino;Cartão de credito
+1425;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Douglas Gillen;masculino;Pix
+1426;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Sharon Thompson;feminino;Cartão de credito
+1427;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Darcie Pinheiro;feminino;Dinheiro
+1428;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Ernestine Betz;feminino;Pix
+1429;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Elaine Spivey;feminino;Pix
+1430;São Paulo;Lucas Pereira;Smartwatch Garmin;Bryant Hallam;masculino;Dinheiro
+1431;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Marvin Green;masculino;Boleto
+1432;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Heather Bailey;feminino;Pix
+1433;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Mary Stanley;feminino;Cartão de credito
+1434;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Etta Ketterling;feminino;Pix
+1435;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Dennis Treadway;masculino;Cartão de credito
+1436;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Jeanne Patterson;feminino;Pix
+1437;São Paulo;Ana Oliveira;Tablet Apple Ipad;Emily Dalton;feminino;Dinheiro
+1438;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Brian Costantino;masculino;Boleto
+1439;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Sandra Smith;feminino;Pix
+1440;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Savanna Stackhouse;feminino;Cartão de credito
+1441;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Catherine Ungar;feminino;Cartão de credito
+1442;São Paulo;Lucas Pereira;Tablet Apple Ipad;Gene Forrester;masculino;Cartão de credito
+1443;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Maurice Hernandez;masculino;Dinheiro
+1444;São Paulo;Ana Oliveira;Fones de ouvido Sony;William Moritz;masculino;Dinheiro
+1445;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;David Litzenberg;masculino;Boleto
+1446;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Maurice Pope;masculino;Cartão de credito
+1447;São Paulo;Lucas Pereira;Smartwatch Garmin;David Gayer;masculino;Boleto
+1448;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Joseph Kendall;masculino;Pix
+1449;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Jessica Brown;feminino;Boleto
+1450;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Rufus Beckley;masculino;Cartão de credito
+1451;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Jesus Surrett;masculino;Boleto
+1452;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Haley Norman;feminino;Pix
+1453;Porto Alegre;Maria Gomes;Smartwatch Garmin;Jessica Smith;feminino;Pix
+1454;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Margaret Trace;feminino;Boleto
+1455;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Lester Johns;masculino;Boleto
+1456;São Paulo;Lucas Pereira;Notebook Dell Inspiron;John Kiger;masculino;Pix
+1457;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Phillip Annis;masculino;Dinheiro
+1458;São Paulo;Lucas Pereira;Fones de ouvido Sony;Jessica Hunsucker;feminino;Pix
+1459;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;John Marrin;masculino;Pix
+1460;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Joseph Reier;masculino;Dinheiro
+1461;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Millard Sedgwick;masculino;Cartão de credito
+1462;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Judy Johnson;feminino;Dinheiro
+1463;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Thomas Stringham;masculino;Dinheiro
+1464;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Louise Dauphin;feminino;Pix
+1465;São Paulo;Ana Oliveira;Tablet Apple Ipad;Joann Adams;feminino;Boleto
+1466;Porto Alegre;Maria Gomes;Tablet Apple Ipad;John Hayes;masculino;Pix
+1467;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Luke Pittman;masculino;Cartão de credito
+1468;Florianopolis;Thiago Lima;Tablet Apple Ipad;Andrew Davis;masculino;Cartão de credito
+1469;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Pasty Meredith;feminino;Dinheiro
+1470;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Wilbert Glick;masculino;Boleto
+1471;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Sonia Davis;feminino;Boleto
+1472;Porto Alegre;Maria Gomes;Tablet Apple Ipad;William Carey;masculino;Pix
+1473;Porto Alegre;Maria Gomes;Smartwatch Garmin;Karen Foye;feminino;Dinheiro
+1474;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Elizabeth Racine;feminino;Cartão de credito
+1475;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Alfreda Mallia;feminino;Cartão de credito
+1476;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;William Born;masculino;Dinheiro
+1477;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Maria Borders;feminino;Dinheiro
+1478;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Johnny Walker;masculino;Boleto
+1479;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Beverly Ack;feminino;Cartão de credito
+1480;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Todd Booth;masculino;Pix
+1481;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Lina Kwiatkowski;feminino;Cartão de credito
+1482;Florianopolis;Thiago Lima;Tablet Apple Ipad;Richard Busch;masculino;Boleto
+1483;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Nina Midden;feminino;Pix
+1484;São Paulo;Ana Oliveira;Tablet Apple Ipad;Juana Manns;feminino;Dinheiro
+1485;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Lori Chapa;feminino;Boleto
+1486;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Erlinda Beauprez;feminino;Dinheiro
+1487;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Geraldine May;feminino;Cartão de credito
+1488;Florianopolis;Gabriela Santos;Smartwatch Garmin;Stefanie Belanger;feminino;Pix
+1489;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Jack Manley;masculino;Cartão de credito
+1490;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Jill Llewellyn;feminino;Pix
+1491;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Andrew Walley;masculino;Dinheiro
+1492;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Judith Frizzle;feminino;Pix
+1493;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Robert Pratt;masculino;Pix
+1494;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Jamie Ditmars;feminino;Cartão de credito
+1495;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Willard Snow;masculino;Pix
+1496;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Ryan Silva;masculino;Boleto
+1497;Florianopolis;Thiago Lima;Tablet Apple Ipad;Adell Sunderman;feminino;Dinheiro
+1498;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Julia Hamilton;feminino;Dinheiro
+1499;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Curtis Reed;masculino;Boleto
+1500;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Diana Rue;feminino;Boleto
+1501;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Linda Ratliff;feminino;Pix
+1502;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Marie Melton;feminino;Boleto
+1503;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Kristina Graham;feminino;Dinheiro
+1504;São Paulo;Ana Oliveira;Fones de ouvido Sony;Kandice Wells;feminino;Dinheiro
+1505;Porto Alegre;Maria Gomes;Smartwatch Garmin;Rena Godeaux;feminino;Dinheiro
+1506;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Boyce Jacks;masculino;Cartão de credito
+1507;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Charles Walker;masculino;Pix
+1508;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Phillip Pauley;masculino;Pix
+1509;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Jan Reiner;feminino;Cartão de credito
+1510;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Dominique White;feminino;Dinheiro
+1511;Florianopolis;Thiago Lima;Smartwatch Garmin;Virginia Laforest;feminino;Dinheiro
+1512;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Joseph Jenkins;masculino;Cartão de credito
+1513;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Audrey Sullivan;feminino;Boleto
+1514;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Sheila Rice;feminino;Cartão de credito
+1515;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Paul Martin;masculino;Dinheiro
+1516;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Chantelle Elam;feminino;Boleto
+1517;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Jerry Sheets;masculino;Pix
+1518;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Grace Rivera;feminino;Cartão de credito
+1519;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Karen Machado;feminino;Cartão de credito
+1520;São Paulo;Lucas Pereira;Smartwatch Garmin;Violet Golightly;feminino;Dinheiro
+1521;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Lynette Conrad;feminino;Dinheiro
+1522;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Jennifer Martin;feminino;Dinheiro
+1523;São Paulo;Lucas Pereira;Tablet Apple Ipad;Jay Benford;masculino;Dinheiro
+1524;São Paulo;Ana Oliveira;Tablet Apple Ipad;Heather Sturdivant;feminino;Cartão de credito
+1525;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Sandra Mcghee;feminino;Pix
+1526;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Lorraine Giguere;feminino;Pix
+1527;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Geoffrey Patterson;masculino;Dinheiro
+1528;São Paulo;Lucas Pereira;Smartwatch Garmin;Janice Obryant;feminino;Boleto
+1529;São Paulo;Ana Oliveira;Fones de ouvido Sony;Nigel Huggins;masculino;Cartão de credito
+1530;São Paulo;Ana Oliveira;Fones de ouvido Sony;Alan Ellis;masculino;Dinheiro
+1531;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Merissa Clos;feminino;Dinheiro
+1532;Porto Alegre;Maria Gomes;Smartwatch Garmin;Eric Okelley;masculino;Dinheiro
+1533;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Cecil Cloud;masculino;Dinheiro
+1534;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Amanda Emery;feminino;Boleto
+1535;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Jamal Garcia;masculino;Dinheiro
+1536;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Joyce Forrester;feminino;Cartão de credito
+1537;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Patty Well;feminino;Boleto
+1538;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Barbara Diaz;feminino;Cartão de credito
+1539;São Paulo;Lucas Pereira;Fones de ouvido Sony;Karen Cloutier;feminino;Boleto
+1540;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Jane Masztal;feminino;Cartão de credito
+1541;Porto Alegre;Maria Gomes;Smartwatch Garmin;Audry Rhodes;feminino;Cartão de credito
+1542;São Paulo;Lucas Pereira;Smartwatch Garmin;Robert Dailey;masculino;Dinheiro
+1543;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Domitila Pugh;feminino;Boleto
+1544;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Shawn Leach;masculino;Boleto
+1545;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Jennie Breeden;feminino;Cartão de credito
+1546;Florianopolis;Thiago Lima;Fones de ouvido Sony;Lora Hargrave;feminino;Cartão de credito
+1547;Florianopolis;Thiago Lima;Tablet Apple Ipad;William Cooper;masculino;Pix
+1548;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Tim Byfield;masculino;Boleto
+1549;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;John Mulzer;masculino;Cartão de credito
+1550;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Elizabeth Roach;feminino;Cartão de credito
+1551;Florianopolis;Thiago Lima;Fones de ouvido Sony;Timothy Coleman;masculino;Pix
+1552;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Cora Brown;feminino;Pix
+1553;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Justina Tracy;feminino;Dinheiro
+1554;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Monica Romero;feminino;Dinheiro
+1555;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;John Peters;masculino;Boleto
+1556;Florianopolis;Thiago Lima;Tablet Apple Ipad;Judy Rodriguez;feminino;Pix
+1557;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Brianne Brokaw;feminino;Cartão de credito
+1558;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Randal Reph;masculino;Pix
+1559;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Joann Teruel;feminino;Cartão de credito
+1560;São Paulo;Lucas Pereira;Tablet Apple Ipad;Jamie Lamb;feminino;Cartão de credito
+1561;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Joseph Clemments;masculino;Boleto
+1562;Florianopolis;Thiago Lima;Smartwatch Garmin;Kellie Ziegler;feminino;Pix
+1563;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Terry Ashton;masculino;Pix
+1564;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Kermit Schmidt;masculino;Cartão de credito
+1565;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;James Jacobson;masculino;Dinheiro
+1566;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;John Blakely;masculino;Pix
+1567;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Tamara Schooler;feminino;Cartão de credito
+1568;São Paulo;Lucas Pereira;Fones de ouvido Sony;Jason Floyd;masculino;Boleto
+1569;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Joseph Hoskins;masculino;Cartão de credito
+1570;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Scott Gongora;masculino;Pix
+1571;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;James Barrow;masculino;Cartão de credito
+1572;Porto Alegre;Maria Gomes;Smartwatch Garmin;Paulette Lynum;feminino;Boleto
+1573;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Jaime Himmel;masculino;Dinheiro
+1574;Florianopolis;Thiago Lima;Fones de ouvido Sony;Agustin Lloyd;masculino;Pix
+1575;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Cathy Kowalski;feminino;Cartão de credito
+1576;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Janie Hill;feminino;Dinheiro
+1577;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;William Howerton;masculino;Dinheiro
+1578;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Karon Swinson;feminino;Boleto
+1579;Porto Alegre;Maria Gomes;Smartwatch Garmin;Troy Hartley;masculino;Dinheiro
+1580;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Grady Graham;masculino;Pix
+1581;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Johanna Simpson;feminino;Pix
+1582;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Elin Dubicki;feminino;Dinheiro
+1583;Florianopolis;Thiago Lima;Tablet Apple Ipad;Patty Rastorfer;feminino;Dinheiro
+1584;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Lorraine Odell;feminino;Cartão de credito
+1585;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Moses Coley;masculino;Pix
+1586;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Bryan Price;masculino;Pix
+1587;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Larry Richard;masculino;Cartão de credito
+1588;Florianopolis;Gabriela Santos;Smartwatch Garmin;Kristin Weiss;feminino;Boleto
+1589;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Gladys Grasso;feminino;Cartão de credito
+1590;Porto Alegre;Maria Gomes;Smartwatch Garmin;Betty Carpenter;feminino;Cartão de credito
+1591;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Phyllis Coppedge;feminino;Pix
+1592;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Ashton Platt;feminino;Dinheiro
+1593;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Maria Denny;feminino;Pix
+1594;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Ivan Vandenbosch;masculino;Dinheiro
+1595;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Jed Harrison;masculino;Pix
+1596;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Harley Warren;masculino;Dinheiro
+1597;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Norman Mcgee;masculino;Pix
+1598;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Gregory Hensley;masculino;Dinheiro
+1599;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Emil Rady;masculino;Cartão de credito
+1600;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Kevin Reynolds;masculino;Cartão de credito
+1601;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Richard Duncan;masculino;Dinheiro
+1602;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Gloria Payton;feminino;Dinheiro
+1603;São Paulo;Lucas Pereira;Tablet Apple Ipad;Marcy Holt;feminino;Cartão de credito
+1604;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;William Ford;masculino;Pix
+1605;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Jennifer Miller;feminino;Boleto
+1606;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;David Brooks;masculino;Boleto
+1607;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Maria Parrett;feminino;Dinheiro
+1608;São Paulo;Ana Oliveira;Smartwatch Garmin;Ethel Kent;feminino;Boleto
+1609;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Lance Stockman;masculino;Dinheiro
+1610;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Amanda Gregg;feminino;Dinheiro
+1611;Porto Alegre;Maria Gomes;Smartwatch Garmin;Elaine Pridgen;feminino;Dinheiro
+1612;Porto Alegre;Maria Gomes;Smartwatch Garmin;Thomas Brown;masculino;Cartão de credito
+1613;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Ellen Crouchet;feminino;Cartão de credito
+1614;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Daron Mendoza;masculino;Dinheiro
+1615;Porto Alegre;Maria Gomes;Smartwatch Garmin;Margaret Rose;feminino;Boleto
+1616;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Bobby Griffin;masculino;Pix
+1617;Florianopolis;Thiago Lima;Fones de ouvido Sony;Nancy Barton;feminino;Cartão de credito
+1618;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Jackie Larocco;feminino;Boleto
+1619;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Charles Black;masculino;Dinheiro
+1620;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Elisabeth Perez;feminino;Boleto
+1621;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Catherine Hanna;feminino;Boleto
+1622;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Paige Negron;feminino;Dinheiro
+1623;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Clara Cobbs;feminino;Pix
+1624;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Melissa Pinedo;feminino;Boleto
+1625;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Russel Packard;masculino;Cartão de credito
+1626;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Mark Roland;masculino;Pix
+1627;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Melissa Bemis;feminino;Dinheiro
+1628;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Marilyn Brown;feminino;Dinheiro
+1629;São Paulo;Lucas Pereira;Fones de ouvido Sony;Susan Saunders;feminino;Cartão de credito
+1630;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Janet Mitchell;feminino;Cartão de credito
+1631;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;David Nichols;masculino;Pix
+1632;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Norma Dennison;feminino;Dinheiro
+1633;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Alisha Bryan;feminino;Dinheiro
+1634;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Mary Perez;feminino;Dinheiro
+1635;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Marion Martin;masculino;Dinheiro
+1636;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Susanne Turnbow;feminino;Boleto
+1637;São Paulo;Ana Oliveira;Tablet Apple Ipad;Trevor Mefford;masculino;Cartão de credito
+1638;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Marilyn Hubbard;feminino;Pix
+1639;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Sidney Luken;masculino;Dinheiro
+1640;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;April Redenz;feminino;Dinheiro
+1641;São Paulo;Ana Oliveira;Tablet Apple Ipad;Estela Brown;feminino;Pix
+1642;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Evangeline Sosa;feminino;Boleto
+1643;Florianopolis;Gabriela Santos;Smartwatch Garmin;Latasha Cardenas;feminino;Dinheiro
+1644;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Jimmy Hubbard;masculino;Pix
+1645;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Jose Saavedra;masculino;Dinheiro
+1646;Porto Alegre;Maria Gomes;Smartwatch Garmin;Ryan Franco;masculino;Boleto
+1647;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Richard Boon;masculino;Cartão de credito
+1648;Porto Alegre;Maria Gomes;Smartwatch Garmin;Dawn Longmore;feminino;Boleto
+1649;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Laurence Kay;masculino;Dinheiro
+1650;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Nicholas Smith;masculino;Pix
+1651;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Nolan Arnold;masculino;Pix
+1652;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Carrie Hillard;feminino;Boleto
+1653;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Daryl Crose;masculino;Dinheiro
+1654;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Virgie Banks;feminino;Cartão de credito
+1655;São Paulo;Ana Oliveira;Smartwatch Garmin;Ronald Mix;masculino;Pix
+1656;Porto Alegre;Maria Gomes;Fones de ouvido Sony;David Wilson;masculino;Pix
+1657;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Maria Campbell;feminino;Dinheiro
+1658;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Patricia Mompoint;feminino;Pix
+1659;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Joseph Gore;masculino;Pix
+1660;São Paulo;Lucas Pereira;Fones de ouvido Sony;Dana Whiteman;masculino;Pix
+1661;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Sharon Thayer;feminino;Boleto
+1662;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Valerie Henson;feminino;Cartão de credito
+1663;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Joseph Mummert;masculino;Cartão de credito
+1664;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Fred Crandle;masculino;Dinheiro
+1665;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Jose Gilbert;masculino;Pix
+1666;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Robert Rouse;masculino;Pix
+1667;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Renea Williams;feminino;Boleto
+1668;Florianopolis;Thiago Lima;Smartwatch Garmin;Carmen White;feminino;Pix
+1669;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Elliott Myers;masculino;Boleto
+1670;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Shirley Downey;feminino;Cartão de credito
+1671;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Yvette Reid;feminino;Cartão de credito
+1672;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Ronald Falconer;masculino;Boleto
+1673;Florianopolis;Thiago Lima;Tablet Apple Ipad;Robert Ortiz;masculino;Pix
+1674;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Merrill Butts;masculino;Boleto
+1675;São Paulo;Lucas Pereira;Fones de ouvido Sony;Will Trinka;masculino;Dinheiro
+1676;São Paulo;Ana Oliveira;Tablet Apple Ipad;Elia Cox;feminino;Pix
+1677;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Martha Finch;feminino;Dinheiro
+1678;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Wm Orlando;masculino;Boleto
+1679;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Cynthia Jock;feminino;Pix
+1680;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Donald Dinkins;masculino;Boleto
+1681;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Nancy Grizzard;feminino;Cartão de credito
+1682;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Gil Fuller;masculino;Pix
+1683;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Michael Graves;masculino;Dinheiro
+1684;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;James Baltimore;masculino;Dinheiro
+1685;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Terri Tolin;feminino;Pix
+1686;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;James Woods;masculino;Dinheiro
+1687;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Barbara Jeffrey;feminino;Pix
+1688;São Paulo;Ana Oliveira;Smartwatch Garmin;Kimberly Brown;feminino;Cartão de credito
+1689;Porto Alegre;Maria Gomes;Smartwatch Garmin;Ryan Hamilton;masculino;Cartão de credito
+1690;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;William Hillard;masculino;Boleto
+1691;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Katherine Spillman;feminino;Boleto
+1692;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Stephen Thomas;masculino;Pix
+1693;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Rex Polanco;masculino;Dinheiro
+1694;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Madeline Blackwell;feminino;Cartão de credito
+1695;São Paulo;Ana Oliveira;Smartwatch Garmin;Joan Urban;feminino;Boleto
+1696;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Fletcher Davis;masculino;Cartão de credito
+1697;São Paulo;Ana Oliveira;Tablet Apple Ipad;Rudolph Lovell;masculino;Pix
+1698;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Tamara Ferretti;feminino;Boleto
+1699;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Kyung Patterson;feminino;Cartão de credito
+1700;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Martin Rodriguez;masculino;Boleto
+1701;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;John Dowler;masculino;Boleto
+1702;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Angela Mcabee;feminino;Dinheiro
+1703;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Robert Welch;masculino;Pix
+1704;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Albert Plyler;masculino;Dinheiro
+1705;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Jessie Young;feminino;Dinheiro
+1706;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;David Griffith;masculino;Cartão de credito
+1707;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Frederick Lozier;masculino;Pix
+1708;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Amber Mcclure;feminino;Cartão de credito
+1709;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;John Knedler;masculino;Cartão de credito
+1710;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Lisa Kropf;feminino;Cartão de credito
+1711;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Kimberly Smith;feminino;Dinheiro
+1712;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Josh Gregory;masculino;Boleto
+1713;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Marie Mize;feminino;Dinheiro
+1714;Florianopolis;Thiago Lima;Tablet Apple Ipad;Brian Gibson;masculino;Cartão de credito
+1715;São Paulo;Lucas Pereira;Smartwatch Garmin;Oscar Simon;masculino;Pix
+1716;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Richard Parker;masculino;Pix
+1717;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Judith Warfield;feminino;Cartão de credito
+1718;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Bob Love;masculino;Pix
+1719;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Richard Knox;masculino;Dinheiro
+1720;São Paulo;Lucas Pereira;Tablet Apple Ipad;Mary Sanchez;feminino;Dinheiro
+1721;Florianopolis;Gabriela Santos;Smartwatch Garmin;Edward Human;masculino;Pix
+1722;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Larry Gatling;masculino;Pix
+1723;São Paulo;Lucas Pereira;Smartwatch Garmin;Robert Clark;masculino;Boleto
+1724;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Douglas Smith;masculino;Cartão de credito
+1725;São Paulo;Ana Oliveira;Tablet Apple Ipad;Wade May;masculino;Boleto
+1726;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Constance Morefield;feminino;Dinheiro
+1727;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Marcella Ross;feminino;Boleto
+1728;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Carol Bedolla;feminino;Cartão de credito
+1729;Florianopolis;Thiago Lima;Fones de ouvido Sony;Harold Johnson;masculino;Dinheiro
+1730;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Steven Counts;masculino;Boleto
+1731;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Elizabeth Rabun;feminino;Dinheiro
+1732;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Shannon Grondin;masculino;Pix
+1733;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Lance King;masculino;Pix
+1734;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Amanda Hill;feminino;Dinheiro
+1735;Florianopolis;Thiago Lima;Fones de ouvido Sony;Patrice Bickel;feminino;Dinheiro
+1736;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Edward Schmidt;masculino;Cartão de credito
+1737;São Paulo;Lucas Pereira;Smartwatch Garmin;William Campos;masculino;Boleto
+1738;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Maria Smith;feminino;Dinheiro
+1739;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Clint Smith;masculino;Dinheiro
+1740;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Mary Long;feminino;Cartão de credito
+1741;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Nicole Napier;feminino;Cartão de credito
+1742;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Stella Flores;feminino;Dinheiro
+1743;Florianopolis;Thiago Lima;Smartwatch Garmin;Anthony Brown;masculino;Cartão de credito
+1744;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Mike Wilson;masculino;Dinheiro
+1745;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Trina Gwaltney;feminino;Cartão de credito
+1746;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Timothy Morris;masculino;Pix
+1747;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Bob Caserta;masculino;Cartão de credito
+1748;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Joseph Burke;masculino;Dinheiro
+1749;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Mary Heslop;feminino;Pix
+1750;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Judy Marino;feminino;Cartão de credito
+1751;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Anna Ogawa;feminino;Cartão de credito
+1752;Florianopolis;Thiago Lima;Smartwatch Garmin;James Weinbauer;masculino;Dinheiro
+1753;Florianopolis;Thiago Lima;Tablet Apple Ipad;Anita Charlton;feminino;Dinheiro
+1754;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Frank Boudreaux;masculino;Boleto
+1755;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Deborah Lewis;feminino;Pix
+1756;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Catherine Harkins;feminino;Pix
+1757;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Shannon Ware;masculino;Dinheiro
+1758;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Kelly Miller;feminino;Pix
+1759;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Kimberly Cole;feminino;Dinheiro
+1760;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Daniel Pichardo;masculino;Boleto
+1761;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Anita Squires;feminino;Boleto
+1762;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Robert Madan;masculino;Boleto
+1763;São Paulo;Ana Oliveira;Smartwatch Garmin;Eric Smith;masculino;Pix
+1764;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Maria Hay;feminino;Pix
+1765;Porto Alegre;Maria Gomes;Smartwatch Garmin;Catherine Gombert;feminino;Boleto
+1766;Porto Alegre;Maria Gomes;Smartwatch Garmin;Michael Montoya;masculino;Pix
+1767;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Mamie Conkling;feminino;Dinheiro
+1768;Porto Alegre;Maria Gomes;Smartwatch Garmin;James Harris;masculino;Pix
+1769;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Ruth Ryan;feminino;Pix
+1770;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Steven Sheppard;masculino;Cartão de credito
+1771;São Paulo;Ana Oliveira;Smartwatch Garmin;Earl Gonzales;masculino;Dinheiro
+1772;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Jared Lang;masculino;Pix
+1773;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Irene Byrd;feminino;Boleto
+1774;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Anthony Wallace;masculino;Pix
+1775;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Tim Edmond;masculino;Pix
+1776;São Paulo;Ana Oliveira;Tablet Apple Ipad;David Sanchez;masculino;Boleto
+1777;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Sandra Mick;feminino;Cartão de credito
+1778;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Ronald Dierking;masculino;Dinheiro
+1779;São Paulo;Lucas Pereira;Smartwatch Garmin;Kenneth Blankenship;masculino;Pix
+1780;Porto Alegre;Maria Gomes;Smartwatch Garmin;Kathleen Dullea;feminino;Dinheiro
+1781;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Lillian Woods;feminino;Cartão de credito
+1782;Porto Alegre;Maria Gomes;Smartwatch Garmin;Morgan Moten;feminino;Boleto
+1783;São Paulo;Ana Oliveira;Tablet Apple Ipad;Fermin Bowden;masculino;Cartão de credito
+1784;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Ricardo Wiseman;masculino;Boleto
+1785;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Nathaniel Lecompte;masculino;Boleto
+1786;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Norma Cantu;feminino;Dinheiro
+1787;Florianopolis;Thiago Lima;Fones de ouvido Sony;Lisa Barnett;feminino;Boleto
+1788;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;John Williams;masculino;Dinheiro
+1789;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Ramona Morgan;feminino;Boleto
+1790;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Elbert Bennett;masculino;Cartão de credito
+1791;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Sarah Lundy;feminino;Dinheiro
+1792;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Tanya Horwitz;feminino;Cartão de credito
+1793;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Jennette Sandiford;feminino;Boleto
+1794;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Eric London;masculino;Boleto
+1795;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Joyce Zipfel;feminino;Pix
+1796;São Paulo;Ana Oliveira;Smartwatch Garmin;Eleanor Jewell;feminino;Cartão de credito
+1797;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Bill Mcdonald;masculino;Cartão de credito
+1798;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Judy Medina;feminino;Pix
+1799;Belo Horizonte;Carlos Silva;Fones de ouvido Sony;Laurinda Jensen;feminino;Dinheiro
+1800;São Paulo;Ana Oliveira;Smartwatch Garmin;Esperanza Rodriguez;feminino;Dinheiro
+1801;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;John Holdren;masculino;Boleto
+1802;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Robin Abell;feminino;Pix
+1803;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Pauline Thornhill;feminino;Cartão de credito
+1804;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Joyce Palermo;feminino;Boleto
+1805;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Denise Schreiber;feminino;Cartão de credito
+1806;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Ramon Bell;masculino;Pix
+1807;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Todd Reich;masculino;Dinheiro
+1808;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Lawrence Dixon;masculino;Pix
+1809;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Eleanor Scheer;feminino;Cartão de credito
+1810;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Jolene Banks;feminino;Dinheiro
+1811;Porto Alegre;Maria Gomes;Smartwatch Garmin;Daryl Stroup;feminino;Dinheiro
+1812;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Gwendolyn French;feminino;Pix
+1813;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Curtis Wheeler;masculino;Cartão de credito
+1814;Florianopolis;Gabriela Santos;Smartwatch Garmin;Victor Morrison;masculino;Boleto
+1815;Porto Alegre;Maria Gomes;Smartwatch Garmin;Rosemary King;feminino;Boleto
+1816;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Wallace Shultz;masculino;Dinheiro
+1817;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Nicholas Swartz;masculino;Pix
+1818;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Ronald Pulaski;masculino;Dinheiro
+1819;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Anna Farris;feminino;Cartão de credito
+1820;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Stephanie Blackman;feminino;Pix
+1821;São Paulo;Lucas Pereira;Fones de ouvido Sony;Angela Hughes;feminino;Dinheiro
+1822;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Mario Wilkie;masculino;Dinheiro
+1823;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Jorge Adderley;masculino;Dinheiro
+1824;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Andrew Cartwright;masculino;Pix
+1825;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Roland Bermudez;masculino;Cartão de credito
+1826;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;William Bettis;masculino;Pix
+1827;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Mary Ratcliffe;feminino;Cartão de credito
+1828;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Kristie Gibson;feminino;Pix
+1829;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Michael Ray;masculino;Boleto
+1830;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Joseph Smith;masculino;Pix
+1831;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Diane Foster;feminino;Dinheiro
+1832;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Amber Mccain;feminino;Pix
+1833;Florianopolis;Thiago Lima;Tablet Apple Ipad;Leigh Eads;feminino;Pix
+1834;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Beulah Gauthier;feminino;Boleto
+1835;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Martin Mckinney;masculino;Cartão de credito
+1836;Florianopolis;Gabriela Santos;Smartwatch Garmin;Tiffiny Deboer;feminino;Cartão de credito
+1837;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Carroll Blackwelder;masculino;Dinheiro
+1838;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Norman Johnson;masculino;Dinheiro
+1839;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Chanda Morrow;feminino;Boleto
+1840;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Douglas Tackett;masculino;Pix
+1841;São Paulo;Lucas Pereira;Smartwatch Garmin;Diane Knight;feminino;Boleto
+1842;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Gina Valencia;feminino;Pix
+1843;São Paulo;Ana Oliveira;Fones de ouvido Sony;Maurice Mulholland;masculino;Pix
+1844;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Monica Gunter;feminino;Cartão de credito
+1845;São Paulo;Ana Oliveira;Tablet Apple Ipad;Mary Sheridan;feminino;Cartão de credito
+1846;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Duane Hillard;masculino;Cartão de credito
+1847;Porto Alegre;Maria Gomes;Fones de ouvido Sony;Allen Mclaren;masculino;Dinheiro
+1848;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Robert Flores;masculino;Dinheiro
+1849;Florianopolis;Gabriela Santos;Smartwatch Garmin;Kathleen Johnson;feminino;Pix
+1850;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Amanda Armstrong;feminino;Dinheiro
+1851;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Mary Russell;feminino;Pix
+1852;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Jay Weathers;masculino;Pix
+1853;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Paula Barnhart;feminino;Cartão de credito
+1854;São Paulo;Ana Oliveira;Fones de ouvido Sony;Carmen Powell;feminino;Cartão de credito
+1855;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Curtis Parent;masculino;Dinheiro
+1856;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Arlene Reynolds;feminino;Boleto
+1857;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;William Koroma;masculino;Cartão de credito
+1858;São Paulo;Lucas Pereira;Notebook Dell Inspiron;George Maynard;masculino;Cartão de credito
+1859;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Ben Sapp;masculino;Cartão de credito
+1860;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Debora Aste;feminino;Dinheiro
+1861;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Patrick Hill;masculino;Boleto
+1862;São Paulo;Lucas Pereira;Tablet Apple Ipad;Margarita Hanner;feminino;Cartão de credito
+1863;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Cortney Welch;feminino;Dinheiro
+1864;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Jennifer Applebury;feminino;Cartão de credito
+1865;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Michael Cornell;masculino;Pix
+1866;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Katherine Kennedy;feminino;Cartão de credito
+1867;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Zane Mccoy;masculino;Dinheiro
+1868;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Hilda Ramirez;feminino;Pix
+1869;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Charles Reiland;masculino;Dinheiro
+1870;São Paulo;Ana Oliveira;Fones de ouvido Sony;Carl Matsuda;masculino;Dinheiro
+1871;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Susan Sutton;feminino;Pix
+1872;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Robert Williamson;masculino;Boleto
+1873;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Susan Camacho;feminino;Dinheiro
+1874;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Juanita Johnson;feminino;Cartão de credito
+1875;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Sarah Lemley;feminino;Boleto
+1876;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Doris Nelson;feminino;Pix
+1877;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Shirley Brannon;feminino;Dinheiro
+1878;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Steven Wishman;masculino;Pix
+1879;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Dale Legace;masculino;Cartão de credito
+1880;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Stephany Brady;feminino;Dinheiro
+1881;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Pamela Lyle;feminino;Dinheiro
+1882;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Shawn Mikes;feminino;Cartão de credito
+1883;São Paulo;Ana Oliveira;Fones de ouvido Sony;Rachel Manthe;feminino;Pix
+1884;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Tracey Flowers;feminino;Cartão de credito
+1885;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Karen Corona;feminino;Boleto
+1886;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Ruthie Ehlers;feminino;Boleto
+1887;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Dennis Stiefel;masculino;Boleto
+1888;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Elizabeth Walton;feminino;Pix
+1889;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Heidi Wiggins;feminino;Boleto
+1890;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Jeffrey Ward;masculino;Dinheiro
+1891;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Wanda Wiley;feminino;Boleto
+1892;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Shelly Caldwell;feminino;Pix
+1893;São Paulo;Lucas Pereira;Smartwatch Garmin;Malissa Windmeyer;feminino;Dinheiro
+1894;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;James Morris;masculino;Boleto
+1895;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Eric Garcia;masculino;Cartão de credito
+1896;Florianopolis;Gabriela Santos;Smartwatch Garmin;George Sprinkel;masculino;Pix
+1897;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Louis Warner;masculino;Boleto
+1898;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Larry Thompson;masculino;Pix
+1899;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Marshall Tullar;masculino;Boleto
+1900;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;James Humphreys;masculino;Pix
+1901;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Pamela Castillo;feminino;Pix
+1902;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Kimberly Sedgwick;feminino;Cartão de credito
+1903;Florianopolis;Gabriela Santos;Smartwatch Garmin;Phyllis Maldomado;feminino;Dinheiro
+1904;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Harlan Garrett;masculino;Pix
+1905;São Paulo;Ana Oliveira;Tablet Apple Ipad;Isaiah Cheng;masculino;Dinheiro
+1906;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Danny Dostal;masculino;Pix
+1907;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Ann Ellis;feminino;Boleto
+1908;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;John Ford;masculino;Dinheiro
+1909;São Paulo;Ana Oliveira;Tablet Apple Ipad;Edelmira Stewart;feminino;Cartão de credito
+1910;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Mari Perez;feminino;Pix
+1911;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Josephine Goodall;feminino;Boleto
+1912;Florianopolis;Thiago Lima;Fones de ouvido Sony;Anthony Messer;masculino;Dinheiro
+1913;São Paulo;Lucas Pereira;Fones de ouvido Sony;James Ramirez;masculino;Dinheiro
+1914;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Claire Moore;feminino;Dinheiro
+1915;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Joann Brooks;feminino;Boleto
+1916;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Craig Oconnell;masculino;Pix
+1917;São Paulo;Lucas Pereira;Smartwatch Garmin;Deon Preusser;masculino;Dinheiro
+1918;São Paulo;Ana Oliveira;Tablet Apple Ipad;Robert Hughes;masculino;Pix
+1919;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Frank Roney;masculino;Dinheiro
+1920;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Marion Carter;masculino;Dinheiro
+1921;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Elizabeth Galimi;feminino;Pix
+1922;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Alberto Johnson;masculino;Boleto
+1923;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Paul Vasquez;masculino;Cartão de credito
+1924;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Regina Raygosa;feminino;Boleto
+1925;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Brandi Sena;feminino;Pix
+1926;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;John Davis;masculino;Pix
+1927;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Catherine Baker;feminino;Boleto
+1928;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Brittany Mcgovern;feminino;Dinheiro
+1929;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Helen Mcnew;feminino;Boleto
+1930;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Debbie Blanks;feminino;Pix
+1931;Florianopolis;Thiago Lima;Smartwatch Garmin;Charlotte Delong;feminino;Pix
+1932;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Julie Rivers;feminino;Pix
+1933;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Chelsea Johnston;feminino;Dinheiro
+1934;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Amanda Hutchinson;feminino;Pix
+1935;Porto Alegre;Maria Gomes;Smartphone Samsung Galaxy;Henrietta Bowden;feminino;Pix
+1936;Belo Horizonte;Fernanda Costa;Fones de ouvido Sony;Ethan Warren;masculino;Pix
+1937;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Steve Lancaster;masculino;Boleto
+1938;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Kenneth Hayden;masculino;Cartão de credito
+1939;São Paulo;Ana Oliveira;Smartwatch Garmin;Trudy Dux;feminino;Cartão de credito
+1940;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Michael Barnhill;masculino;Boleto
+1941;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Samuel Andrews;masculino;Cartão de credito
+1942;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Christina Nolan;feminino;Boleto
+1943;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Harold Burns;masculino;Pix
+1944;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Wayne English;masculino;Cartão de credito
+1945;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Matthew Statum;masculino;Boleto
+1946;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Dyan John;feminino;Pix
+1947;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;William Crumley;masculino;Boleto
+1948;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Theodora Viggiano;feminino;Dinheiro
+1949;São Paulo;Lucas Pereira;Fones de ouvido Sony;Jack Slusher;masculino;Dinheiro
+1950;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Robert Neal;masculino;Dinheiro
+1951;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Laura Fontenot;feminino;Cartão de credito
+1952;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Laurie Simmons;feminino;Boleto
+1953;São Paulo;Lucas Pereira;Fones de ouvido Sony;Gregory Mills;masculino;Dinheiro
+1954;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Elaine Mcgowan;feminino;Boleto
+1955;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Paul Green;masculino;Dinheiro
+1956;Porto Alegre;Roberto Ferreira;Fones de ouvido Sony;Jack Boswell;masculino;Boleto
+1957;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Bernice Leach;feminino;Pix
+1958;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Thomas Hadley;masculino;Dinheiro
+1959;Porto Alegre;Maria Gomes;Smartwatch Garmin;Todd Caldwell;masculino;Pix
+1960;Florianopolis;Thiago Lima;Smartwatch Garmin;Tom Mendez;masculino;Dinheiro
+1961;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Elizabeth Jones;feminino;Dinheiro
+1962;São Paulo;Lucas Pereira;Fones de ouvido Sony;Tyler Mcelroy;masculino;Pix
+1963;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Mario Rhodes;masculino;Dinheiro
+1964;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Peter Brooks;masculino;Cartão de credito
+1965;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Kathleen Tang;feminino;Pix
+1966;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Marissa Chapman;feminino;Boleto
+1967;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Todd Wheeler;masculino;Dinheiro
+1968;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Eleanor Randel;feminino;Boleto
+1969;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Joshua Harrington;masculino;Cartão de credito
+1970;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Clara Bell;feminino;Pix
+1971;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Kristen Moreno;feminino;Cartão de credito
+1972;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Kathy Jones;feminino;Pix
+1973;Florianopolis;Gabriela Santos;Notebook Dell Inspiron;Andy Manning;masculino;Boleto
+1974;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Maud Brumfield;feminino;Dinheiro
+1975;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Francis Higdon;masculino;Pix
+1976;São Paulo;Ana Oliveira;Tablet Apple Ipad;Margaret Allmand;feminino;Pix
+1977;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Benjamin Landry;masculino;Cartão de credito
+1978;São Paulo;Lucas Pereira;Tablet Apple Ipad;Jimmie Retchless;feminino;Cartão de credito
+1979;Rio de Janeiro;Pedro Souza;Fones de ouvido Sony;Peter Walker;masculino;Dinheiro
+1980;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Felicia Vitale;feminino;Boleto
+1981;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Timothy Butcher;masculino;Pix
+1982;Porto Alegre;Maria Gomes;Notebook Dell Inspiron;Barbara Painter;feminino;Cartão de credito
+1983;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Annette Munguia;feminino;Pix
+1984;Rio de Janeiro;Juliana Almeida;Fones de ouvido Sony;Stacey Fagan;feminino;Cartão de credito
+1985;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Ernestine Scott;feminino;Dinheiro
+1986;Florianopolis;Thiago Lima;Smartphone Samsung Galaxy;Anthony Jeffery;masculino;Cartão de credito
+1987;Porto Alegre;Maria Gomes;Smartwatch Garmin;Eloy Ross;masculino;Boleto
+1988;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Robin Carson;feminino;Pix
+1989;São Paulo;Lucas Pereira;Tablet Apple Ipad;Willie Ellis;masculino;Boleto
+1990;São Paulo;Lucas Pereira;Tablet Apple Ipad;Kenneth Cook;masculino;Cartão de credito
+1991;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Bruno Mathison;masculino;Dinheiro
+1992;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Andrew Bunker;masculino;Dinheiro
+1993;Florianopolis;Gabriela Santos;Fones de ouvido Sony;Norman Robinson;masculino;Cartão de credito
+1994;São Paulo;Ana Oliveira;Smartwatch Garmin;Juanita Beebe;feminino;Dinheiro
+1995;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Bonnie Franke;feminino;Cartão de credito
+1996;Florianopolis;Thiago Lima;Notebook Dell Inspiron;Michele Wilson;feminino;Dinheiro
+1997;Florianopolis;Gabriela Santos;Tablet Apple Ipad;Eric Jamison;masculino;Dinheiro
+1998;Porto Alegre;Maria Gomes;Tablet Apple Ipad;Deborah Lloyd;feminino;Boleto
+1999;Florianopolis;Gabriela Santos;Smartphone Samsung Galaxy;Jason Braxton;masculino;Boleto
+2000;São Paulo/SP; Ana Oliveira ;Smartphone Samsung Galaxy;1;masculino;Cartão de credito
