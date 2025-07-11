@@ -57,7 +57,7 @@ pip install -r requirements.txt
 streamlit run app_nome.py
 Exemplo:
 ```
-![Preview do app](assets/cadastramento.mp4)
+![Preview do app](cadastramento(1).gif)
 
 ```
 📁 Sobre os dados
@@ -70,8 +70,6 @@ Manipulação de dados com Pandas
 Desenvolvimento de aplicações web interativas com Streamlit
 Organização de projetos reais em Python
 Boas práticas de estrutura de repositório
-
-![Preview do app](cadastramento(1).gif)
 
 👋 Contato
 Feito com ❤️ por @FelipePacheco2
