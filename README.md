@@ -63,12 +63,6 @@ streamlit run app_insights.py
 Os arquivos de dados usados nos projetos estão na pasta datasets/.
 Eles são carregados nos apps com caminho relativo, por exemplo:
 
-
-🎥 Adicionando imagens ou GIFs
-```
-![Preview do app](assets/nome_do_arquivo.gif)
-```
-
 📌 Objetivo
 Este repositório serve como um laboratório pessoal de testes e estudos, com foco em:
 Manipulação de dados com Pandas
