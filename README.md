@@ -71,7 +71,7 @@ Desenvolvimento de aplicações web interativas com Streamlit
 Organização de projetos reais em Python
 Boas práticas de estrutura de repositório
 
-![Preview do app](assets/Cadastramento(1).gif)
+![Preview do app](assets/cadastramento (1).gif)
 
 👋 Contato
 Feito com ❤️ por @FelipePacheco2
