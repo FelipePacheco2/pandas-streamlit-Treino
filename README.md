@@ -68,7 +68,6 @@ Eles são carregados nos apps com caminho relativo, por exemplo:
 ```
 ![Preview do app](assets/nome_do_arquivo.gif)
 ```
-Exemplo:
 
 📌 Objetivo
 Este repositório serve como um laboratório pessoal de testes e estudos, com foco em:
