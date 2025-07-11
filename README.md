@@ -55,9 +55,9 @@ pip install -r requirements.txt
 ```
 3. Execute um dos apps
 streamlit run app_nome.py
-Exemplo:
 
 ![Preview do app](assets/cadastramento.gif)
+![Preview do app](assets/Tabeladinamica.png)
 
 📁 Sobre os dados
 Os arquivos de dados usados nos projetos estão na pasta datasets/.
