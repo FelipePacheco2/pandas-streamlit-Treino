@@ -2,7 +2,7 @@ from datetime import datetime
 import streamlit as st
 import pandas as pd
 
-caminho_datasets = "datasets"
+caminho_datasets = "pandas-streamlit-Treino/datasets"
 
 df_compras = pd.read_csv(f"{caminho_datasets}/compra_data.csv", sep=";", decimal=",", index_col=0)
 df_lojas = pd.read_csv(f"{caminho_datasets}/lojas.csv", sep=";", decimal=",", index_col=0)
