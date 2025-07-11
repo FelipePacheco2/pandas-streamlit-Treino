@@ -19,6 +19,7 @@ Cada projeto é independente, focado em um conceito ou funcionalidade prática.
 
 ---
 
+```
 ## 🗂 Estrutura de pastas
 
 pandas-streamlit-Treino/
@@ -32,7 +33,7 @@ pandas-streamlit-Treino/
 ├── assets/ # GIFs ou imagens dos apps em execução
 ├── requirements.txt # Lista de dependências
 └── README.md
-
+```
 ---
 
 ## 🚀 Como executar os projetos
@@ -42,17 +43,16 @@ pandas-streamlit-Treino/
 ```bash
 git clone https://github.com/FelipePacheco2/pandas-streamlit-Treino.git
 cd pandas-streamlit-Treino
-
+```
 2. Instale as dependências
 Recomendo usar um ambiente virtual:
-
+```
 python -m venv venv
 venv\Scripts\activate  # Windows
 # ou
 source venv/bin/activate  # Mac/Linux
-
 pip install -r requirements.txt
-
+```
 3. Execute um dos apps
 streamlit run app_nome.py
 Exemplo:
@@ -63,12 +63,11 @@ streamlit run app_insights.py
 Os arquivos de dados usados nos projetos estão na pasta datasets/.
 Eles são carregados nos apps com caminho relativo, por exemplo:
 
-import pandas as pd
-df = pd.read_csv('datasets/arquivo.csv')
 
 🎥 Adicionando imagens ou GIFs
-
+```
 ![Preview do app](assets/nome_do_arquivo.gif)
+```
 Exemplo:
 
 📌 Objetivo
